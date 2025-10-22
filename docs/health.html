@@ -1,1 +1,70 @@
-<!doctype html><meta charset='utf-8'><title>Health</title><p>Se generará tras la primera ejecución.</p>
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Health — Pokémon Bot</title>
+<style>
+body{font-family:Arial, sans-serif; padding:20px; max-width:1100px; margin:auto;}
+h1{margin-top:0} table{border-collapse:collapse; width:100%; margin-top:10px}
+th,td{border:1px solid #ddd; padding:8px; font-size:14px} th{background:#f5f5f5; text-align:left}
+.badge{display:inline-block; padding:2px 8px; border-radius:12px; background:#eee; margin-right:6px}
+.small{color:#666; font-size:13px} .btn{display:inline-block; padding:10px 14px; border:1px solid #444; border-radius:8px; text-decoration:none; margin:6px 6px 0 0}
+</style>
+<script>
+function buildActionsUrl() {
+  const host = window.location.hostname;
+  const path = window.location.pathname;
+  const owner = host.split('.')[0];
+  const repo = (path.split('/')[1] || "");
+  if (!owner || !repo) return null;
+  // Evitamos template literals para no usar { } ni ${...}
+  return "https://github.com/" + owner + "/" + repo + "/actions/workflows/cron.yml";
+}
+window.addEventListener('DOMContentLoaded', () => {
+  const a = buildActionsUrl();
+  if (a) {
+    document.querySelectorAll('.actions-link').forEach(b => b.setAttribute('href', a));
+  }
+});
+</script>
+</head><body>
+<h1>Health Dashboard</h1>
+<div class="small">Started: 2025-10-22T19:32:06.438643 UTC · Duration: 318.6s · Batch: 20 · Processed: 20/20</div>
+<div style="margin-top:10px;">
+  <a class="btn actions-link" href="#" target="_blank">🔁 Abrir "Run workflow"</a>
+  <a class="btn actions-link" href="#" target="_blank">📣 Abrir y activar send_ping</a>
+  <a class="btn actions-link" href="#" target="_blank">🧪 Abrir y activar force_test_alert</a>
+</div>
+<h2>Resumen</h2>
+<div>
+  <span class="badge">timeouts: 0</span>
+  <span class="badge">net_errors: 0</span>
+  <span class="badge">parse_errors: 0</span>
+  <span class="badge">alerts_sent: 0</span>
+</div>
+<h2>Cartas procesadas</h2>
+<table>
+  <thead><tr><th>Carta</th><th>entries</th><th>precio_now</th><th>Δ24h</th><th>Δ7d</th><th>breakout</th><th>alertada</th><th>nota</th></tr></thead>
+  <tbody>
+<tr><td>Umbreon VMAX Alt Art (Evolving Skies)</td><td>2</td><td>$151.68</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Rayquaza VMAX Alt Art (Evolving Skies)</td><td>2</td><td>$5.79</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Sylveon VMAX Alt Art (Evolving Skies)</td><td>2</td><td>$8.20</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Espeon VMAX Alt Art (Fusion Strike)</td><td>1</td><td>$333.34</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Gengar VMAX Alt Art (Fusion Strike)</td><td>2</td><td>$24.01</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Mew VMAX Alt Art (Fusion Strike)</td><td>2</td><td>$8.10</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Giratina V Alt Art (Lost Origin)</td><td>0</td><td>$0.00</td><td>0.0%</td><td>0.0%</td><td>—</td><td>—</td><td>sin precio</td></tr>
+<tr><td>Aerodactyl V Alt Art (Lost Origin)</td><td>0</td><td>$0.00</td><td>0.0%</td><td>0.0%</td><td>—</td><td>—</td><td>sin precio</td></tr>
+<tr><td>Lugia V Alt Art (Silver Tempest)</td><td>0</td><td>$0.00</td><td>0.0%</td><td>0.0%</td><td>—</td><td>—</td><td>sin precio</td></tr>
+<tr><td>Charizard ex Special Illustration (SV 151)</td><td>0</td><td>$0.00</td><td>0.0%</td><td>0.0%</td><td>—</td><td>—</td><td>sin precio</td></tr>
+<tr><td>Blastoise ex Special Illustration (SV 151)</td><td>2</td><td>$53.03</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Venusaur ex Special Illustration (SV 151)</td><td>2</td><td>$92.33</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Latias &amp; Latios GX Alt Art (Team Up)</td><td>2</td><td>$76.21</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Pikachu Van Gogh Promo</td><td>2</td><td>$14.91</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Charizard Base Set 1st Edition Holo</td><td>2</td><td>$388.40</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Lugia Neo Genesis 1st Edition Holo</td><td>1</td><td>$1799.99</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Rayquaza Gold Star (EX Deoxys)</td><td>2</td><td>$64.81</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Mewtwo Base Set 1st Edition Holo</td><td>2</td><td>$224.50</td><td>0.0%</td><td>0.0%</td><td>✅</td><td>—</td><td></td></tr>
+<tr><td>Charizard V Alt Art (Champion&#x27;s Path / SWSH)</td><td>0</td><td>$0.00</td><td>0.0%</td><td>0.0%</td><td>—</td><td>—</td><td>sin precio</td></tr>
+<tr><td>Lugia Full Art / EX (proxy demand)</td><td>0</td><td>$0.00</td><td>0.0%</td><td>0.0%</td><td>—</td><td>—</td><td>sin precio</td></tr>
+
+  </tbody>
+</table>
+<p class="small">Tip: los botones abren la página del workflow. Allí puedes marcar <i>send_ping</i> y/o <i>force_test_alert</i> y presionar <b>Run workflow</b>.</p>
+</body></html>
