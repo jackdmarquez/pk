@@ -5,6 +5,8 @@ from .collectors.pokemontcg import fetch_card_entries
 from .signals import price_spike_signal
 from .alerting import send_telegram_text, send_telegram_photo
 from .utils import slugify, ensure_dir, append_history_csv, load_last_n, now_ts
+from .alerting import send_telegram_text
+
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 DOCS_DIR = os.path.join(os.path.dirname(__file__), "..", "docs")
@@ -35,6 +37,10 @@ def main():
 
     cards_summary = []
 
+    if os.getenv("SEND_PING","0") == "1":
+        send_telegram_text("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "🤖 Bot iniciado (healthcheck).")
+
+
     for item in cfg["watchlist"]:
         base_queries = item["queries"]
         min_grade = item.get("min_grade")
@@ -48,6 +54,8 @@ def main():
         entries = fetch_card_entries(queries, api_key=pokemontcg_key, max_cards=2)
         market_candidates = [e["now"] for e in entries if e.get("now") is not None]
         p_market_now = median(market_candidates) if market_candidates else 0.0
+        print(f"[{name}] entries={len(entries)} samples={[e.get('now') for e in entries][:3]}")
+
 
         if p_market_now == 0.0:
             cm_values = []
