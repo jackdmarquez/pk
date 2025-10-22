@@ -2,6 +2,9 @@ import os, re, time, requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 API_URL = "https://api.pokemontcg.io/v2/cards"
+# ...
+# No olvides que _session() ya está definido; lo mantenemos igual.
+
 SET_HINTS = [
     "Evolving Skies", "Fusion Strike", "Lost Origin", "Silver Tempest",
     "Scarlet & Violet 151", "Scarlet Violet 151", "Team Up",
@@ -64,11 +67,22 @@ def _session():
     s.mount("https://", HTTPAdapter(max_retries=retry))
     s.mount("http://", HTTPAdapter(max_retries=retry))
     return s
+
 def fetch_card_entries(queries, api_key=None, max_cards=2):
-    headers = {"X-Api-Key": api_key} if api_key else {}
+    # --- headers endurecidos + debug de api key ---
+    headers = {
+        "Accept": "application/json",
+        "User-Agent": "pk-spike-bot/1.0 (+github-actions)"
+    }
+    if api_key:
+        headers["X-Api-Key"] = api_key
+    else:
+        print("[pokemontcg] WARN: no API key provided (X-Api-Key missing)")
+
     timeout = float(os.getenv("POKEMONTCG_TIMEOUT", "12"))
     throttle = float(os.getenv("POKEMONTCG_THROTTLE", "0.15"))
     sess = _session()
+
     results = []
     for raw_q in queries:
         for q in _build_candidate_queries(raw_q):
@@ -76,33 +90,60 @@ def fetch_card_entries(queries, api_key=None, max_cards=2):
             try:
                 r = sess.get(API_URL, headers=headers, params=params, timeout=timeout)
                 print("[pokemontcg] q=", q, "status=", r.status_code)
+
+                # Si vemos 404 repetidos, dejemos una pista útil:
                 if r.status_code == 404:
-                    time.sleep(throttle); continue
+                    # Nota: la API real suele devolver 200 con data vacía. 404 aquí sugiere edge/CDN o headers/auth.
+                    print("[pokemontcg] WARN: 404 recibido. Revisa X-Api-Key, Accept/User-Agent y secrets en workflow.")
+                    time.sleep(throttle)
+                    continue
+
                 r.raise_for_status()
-                data = r.json().get("data", [])[:max_cards]
+                payload = r.json()
+                data = (payload.get("data") or [])[:max_cards]
+
             except requests.exceptions.RequestException as e:
-                print("[pokemontcg] network error:", type(e).__name__, str(e)[:200]); time.sleep(throttle); continue
+                print("[pokemontcg] network error:", type(e).__name__, str(e)[:200])
+                time.sleep(throttle)
+                continue
             except ValueError as e:
-                print("[pokemontcg] parse error:", str(e)[:200]); time.sleep(throttle); continue
+                print("[pokemontcg] parse error:", str(e)[:200])
+                time.sleep(throttle)
+                continue
+
             if not data:
-                time.sleep(throttle); continue
+                time.sleep(throttle)
+                continue
+
             for card in data:
                 entry = {"name": card.get("name"), "set": (card.get("set") or {}).get("name")}
                 p_now = None
                 tp = (card.get("tcgplayer") or {}).get("prices") or {}
                 cm = (card.get("cardmarket") or {}).get("prices") or {}
+
                 for k in ["holofoil", "reverseHolofoil", "normal", "ultraRare", "1stEditionHolofoil"]:
-                    if k in tp and "market" in tp[k]: p_now = tp[k]["market"]; break
+                    if k in tp and "market" in tp[k]:
+                        p_now = tp[k]["market"]
+                        break
+
                 if p_now is None:
                     for k in ["avg1","avg7","avg30"]:
-                        if k in cm: p_now = cm[k]; break
+                        if k in cm:
+                            p_now = cm[k]
+                            break
+
                 entry["now"] = float(p_now) if p_now is not None else None
                 entry["cardmarket"] = {"prices": cm} if cm else {}
                 images = card.get("images") or {}
                 entry["image_small"] = images.get("small")
                 entry["image_large"] = images.get("large")
                 results.append(entry)
+
             if results:
-                time.sleep(throttle); break
+                time.sleep(throttle)
+                break
+
             time.sleep(throttle)
+
     return results
+

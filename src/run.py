@@ -78,7 +78,7 @@ def main():
 
             print(f"[watch] {name}")
             entries = fetch_card_entries(queries, api_key=pokemontcg_key, max_cards=2)
-            print(f"[{name}] entries={{len(entries)}} samples={{[e.get('now') for e in entries][:3]}}")
+            print(f"[{name}] entries={len(entries)} samples={[e.get('now') for e in entries][:3]}")
 
             market_candidates = [e["now"] for e in entries if e.get("now") is not None]
             p_market_now = median(market_candidates) if market_candidates else 0.0
