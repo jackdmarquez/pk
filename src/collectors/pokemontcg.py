@@ -41,21 +41,41 @@ def _build_candidate_queries(user_q: str):
     number = _extract_number(user_q)
     set_name = _extract_set(user_q)
     main = _extract_main_name(user_q)
+
     candidates = []
+
+    # 1) Si tenemos número + set, es la más precisa
     if number and set_name:
         candidates.append(f'number:"{number}" set.name:"{set_name}"')
+
+    # 2) name+set con comillas
     if set_name and main:
         candidates.append(f'name:"{main}" set.name:"{set_name}"')
+
+    # 3) name+set SIN comillas (algunos edges responden mejor)
+    if set_name and main:
+        candidates.append(f'name:{main} set.name:"{set_name}"')
+
+    # 4) name wildcard (tolerante a sufix/prefix)
+    if main:
+        candidates.append(f'name:{main}*')
+
+    # 5) name simple citado
     if main:
         candidates.append(f'name:"{main}"')
+
+    # 6) Query “raw” si ya venía formateada por el usuario
     if 'name:' in user_q or 'set.name:' in user_q or 'number:' in user_q:
         candidates.insert(0, user_q)
+
+    # dedup + límite
     seen, out = set(), []
     for c in candidates:
         if c not in seen:
             out.append(c); seen.add(c)
-    max_variants = int(os.getenv("MAX_QUERY_VARIANTS", "3"))
+    max_variants = int(os.getenv("MAX_QUERY_VARIANTS", "5"))
     return out[:max_variants]
+
 def _session():
     total = int(os.getenv("POKEMONTCG_RETRIES", "2"))
     backoff = float(os.getenv("POKEMONTCG_BACKOFF", "1.0"))
@@ -69,18 +89,17 @@ def _session():
     return s
 
 def fetch_card_entries(queries, api_key=None, max_cards=2):
-    # --- headers endurecidos + debug de api key ---
     headers = {
         "Accept": "application/json",
-        "User-Agent": "pk-spike-bot/1.0 (+github-actions)"
+        "User-Agent": "pk-spike-bot/1.1 (+github-actions)"
     }
     if api_key:
         headers["X-Api-Key"] = api_key
     else:
         print("[pokemontcg] WARN: no API key provided (X-Api-Key missing)")
 
-    timeout = float(os.getenv("POKEMONTCG_TIMEOUT", "12"))
-    throttle = float(os.getenv("POKEMONTCG_THROTTLE", "0.15"))
+    timeout  = float(os.getenv("POKEMONTCG_TIMEOUT", "20"))
+    throttle = float(os.getenv("POKEMONTCG_THROTTLE", "0.50"))
     sess = _session()
 
     results = []
@@ -91,10 +110,10 @@ def fetch_card_entries(queries, api_key=None, max_cards=2):
                 r = sess.get(API_URL, headers=headers, params=params, timeout=timeout)
                 print("[pokemontcg] q=", q, "status=", r.status_code)
 
-                # Si vemos 404 repetidos, dejemos una pista útil:
+                # Algunos edges devuelven 404 “suave” en búsquedas válidas;
+                # lo tratamos como "sin resultados" y probamos la siguiente variante.
                 if r.status_code == 404:
-                    # Nota: la API real suele devolver 200 con data vacía. 404 aquí sugiere edge/CDN o headers/auth.
-                    print("[pokemontcg] WARN: 404 recibido. Revisa X-Api-Key, Accept/User-Agent y secrets en workflow.")
+                    print("[pokemontcg] WARN: 404 recibido (edge). Probando siguiente variante…")
                     time.sleep(throttle)
                     continue
 
@@ -102,6 +121,16 @@ def fetch_card_entries(queries, api_key=None, max_cards=2):
                 payload = r.json()
                 data = (payload.get("data") or [])[:max_cards]
 
+            except requests.exceptions.ReadTimeout as e:
+                print("[pokemontcg] timeout:", str(e)[:200])
+                time.sleep(throttle * 2)
+                continue
+            except requests.exceptions.ConnectionError as e:
+                print("[pokemontcg] connection error:", str(e)[:200])
+                # Reset de sesión por si hay socket en mal estado
+                sess.close(); sess = _session()
+                time.sleep(throttle * 2)
+                continue
             except requests.exceptions.RequestException as e:
                 print("[pokemontcg] network error:", type(e).__name__, str(e)[:200])
                 time.sleep(throttle)
@@ -116,21 +145,22 @@ def fetch_card_entries(queries, api_key=None, max_cards=2):
                 continue
 
             for card in data:
-                entry = {"name": card.get("name"), "set": (card.get("set") or {}).get("name")}
+                entry = {
+                    "name": card.get("name"),
+                    "set": (card.get("set") or {}).get("name")
+                }
                 p_now = None
                 tp = (card.get("tcgplayer") or {}).get("prices") or {}
                 cm = (card.get("cardmarket") or {}).get("prices") or {}
 
                 for k in ["holofoil", "reverseHolofoil", "normal", "ultraRare", "1stEditionHolofoil"]:
                     if k in tp and "market" in tp[k]:
-                        p_now = tp[k]["market"]
-                        break
+                        p_now = tp[k]["market"]; break
 
                 if p_now is None:
                     for k in ["avg1","avg7","avg30"]:
                         if k in cm:
-                            p_now = cm[k]
-                            break
+                            p_now = cm[k]; break
 
                 entry["now"] = float(p_now) if p_now is not None else None
                 entry["cardmarket"] = {"prices": cm} if cm else {}
@@ -141,9 +171,10 @@ def fetch_card_entries(queries, api_key=None, max_cards=2):
 
             if results:
                 time.sleep(throttle)
-                break
+                break  # no sigas variantes si ya obtuviste algo
 
             time.sleep(throttle)
 
     return results
+
 
