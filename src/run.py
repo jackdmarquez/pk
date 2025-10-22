@@ -124,10 +124,8 @@ def main():
             alerted = False
             if ok and trend_ok and avg7_ok and price_now > 0:
                 title = f"📈 Spike: {name}"
-                body = (f"Δ24h: {meta['pct_24h']*100:.1f}% | Δ7d: {meta['pct_7d']*100:.1f}% | breakout: {meta['breakout']}
-"
-                        f"Ahora: ${price_now:.2f} (PokémonTCG/CM)
-"
+                body = (f"Δ24h: {meta['pct_24h']*100:.1f}% | Δ7d: {meta['pct_7d']*100:.1f}% | breakout: {meta['breakout']}"
+                        f"Ahora: ${price_now:.2f} (PokémonTCG/CM)"
                         f"Queries: {', '.join(queries)}")
                 if image_url:
                     send_telegram_photo("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", image_url, caption=f"<b>{title}</b>")
