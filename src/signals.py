@@ -1,6 +1,4 @@
-# src/signals.py
 from typing import Dict, Any, List
-
 def compute_deltas(now: float, p24: float, p7: float):
     def pct(a, b):
         try:
@@ -8,7 +6,6 @@ def compute_deltas(now: float, p24: float, p7: float):
         except ZeroDivisionError:
             return 0.0
     return pct(now, p24), pct(now, p7)
-
 def price_spike_signal(hist: Dict[str, float], last_n: List[float], cfg: Dict[str, Any]) -> (bool, Dict[str, Any]):
     p_now = hist.get("now", 0.0)
     p_24h = hist.get("24h_ago", 0.0)

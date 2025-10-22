@@ -1,18 +1,13 @@
-# src/utils.py
 import os, csv, re, datetime as dt
 from typing import List, Dict, Any
-
 def slugify(text: str) -> str:
     text = text.lower()
     text = re.sub(r'[^a-z0-9]+', '-', text)
     return text.strip('-')
-
 def now_ts() -> str:
     return dt.datetime.utcnow().isoformat()
-
 def ensure_dir(path: str):
     os.makedirs(path, exist_ok=True)
-
 def append_history_csv(path: str, row: Dict[str, Any], fieldnames: List[str]):
     file_exists = os.path.exists(path)
     with open(path, 'a', newline='', encoding='utf-8') as f:
@@ -20,7 +15,6 @@ def append_history_csv(path: str, row: Dict[str, Any], fieldnames: List[str]):
         if not file_exists:
             writer.writeheader()
         writer.writerow(row)
-
 def load_last_n(path: str, n_days: int) -> list:
     if not os.path.exists(path):
         return []
