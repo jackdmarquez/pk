@@ -1,0 +1,163 @@
+watchlist:
+- name: Umbreon VMAX Alt Art (Evolving Skies)
+  queries:
+  - Pokemon Umbreon VMAX 215/203 alternate art Evolving Skies
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+  exclude_terms:
+  - Japanese
+  - Spanish
+  - Portuguese
+  - Italian
+- name: Rayquaza VMAX Alt Art (Evolving Skies)
+  queries:
+  - Pokemon Rayquaza VMAX alternate art Evolving Skies
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Sylveon VMAX Alt Art (Evolving Skies)
+  queries:
+  - Pokemon Sylveon VMAX alternate art Evolving Skies
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Espeon VMAX Alt Art (Fusion Strike)
+  queries:
+  - Pokemon Espeon VMAX alternate art Fusion Strike
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Gengar VMAX Alt Art (Fusion Strike)
+  queries:
+  - Pokemon Gengar VMAX alternate art Fusion Strike
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Mew VMAX Alt Art (Fusion Strike)
+  queries:
+  - Pokemon Mew VMAX alternate art Fusion Strike
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Giratina V Alt Art (Lost Origin)
+  queries:
+  - Pokemon Giratina V alternate art Lost Origin
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Aerodactyl V Alt Art (Lost Origin)
+  queries:
+  - Pokemon Aerodactyl V alternate art Lost Origin
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Lugia V Alt Art (Silver Tempest)
+  queries:
+  - Pokemon Lugia V alternate art Silver Tempest
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Charizard ex Special Illustration (SV 151)
+  queries:
+  - Pokemon Charizard ex special illustration Scarlet Violet 151
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Blastoise ex Special Illustration (SV 151)
+  queries:
+  - Pokemon Blastoise ex special illustration Scarlet Violet 151
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Venusaur ex Special Illustration (SV 151)
+  queries:
+  - Pokemon Venusaur ex special illustration Scarlet Violet 151
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Latias & Latios GX Alt Art (Team Up)
+  queries:
+  - Pokemon Latias Latios GX alternate art Team Up
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Pikachu Van Gogh Promo
+  queries:
+  - Pokemon Pikachu Van Gogh promo
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+  exclude_terms:
+  - sticker
+  - print
+- name: Charizard Base Set 1st Edition Holo
+  queries:
+  - Pokemon Charizard 1st Edition Base Set Holo
+  min_grade: PSA9
+  language: en
+  include_terms:
+  - English
+- name: Lugia Neo Genesis 1st Edition Holo
+  queries:
+  - Pokemon Lugia Neo Genesis 1st Edition Holo
+  min_grade: PSA9
+  language: en
+  include_terms:
+  - English
+- name: Rayquaza Gold Star (EX Deoxys)
+  queries:
+  - Pokemon Rayquaza Gold Star EX Deoxys
+  min_grade: PSA9
+  language: en
+  include_terms:
+  - English
+- name: Mewtwo Base Set 1st Edition Holo
+  queries:
+  - Pokemon Mewtwo 1st Edition Base Set Holo
+  min_grade: PSA9
+  language: en
+  include_terms:
+  - English
+- name: Charizard V Alt Art (Champion's Path / SWSH)
+  queries:
+  - Pokemon Charizard V alternate art Champions Path
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+- name: Lugia Full Art / EX (proxy demand)
+  queries:
+  - Pokemon Lugia Full Art EX
+  min_grade: raw
+  language: en
+  include_terms:
+  - English
+thresholds:
+  pct_24h: 0.15
+  pct_7d: 0.25
+  breakout_days: 14
+  min_avg7_usd: 10
+sources:
+  pokemontcg:
+    api_key_env: POKEMONTCG_API_KEY
+alerting:
+  telegram_bot_token_env: TELEGRAM_BOT_TOKEN
+  telegram_chat_id_env: TELEGRAM_CHAT_ID
+run:
+  send_images: true
+  use_cardmarket_trend: true
