@@ -3,7 +3,8 @@ permissions:
   contents: write
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # - cron: "*/15 * * * *"
+    - cron : "0 */8 * * *"
   workflow_dispatch: {}
 jobs:
   run:
