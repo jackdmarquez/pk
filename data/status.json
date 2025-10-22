@@ -1,6 +1,6 @@
 {
-  "started": "2025-10-22T19:42:21.293000",
-  "duration_sec": 21.302,
+  "started": "2025-10-22T19:51:19.770419",
+  "duration_sec": 82.155,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 2,
@@ -11,23 +11,23 @@
   "items": [
     {
       "name": "Charizard V Alt Art (Champion's Path / SWSH)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
+      "entries": 2,
+      "price_now": 388.4,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Lugia Full Art / EX (proxy demand)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
+      "entries": 2,
+      "price_now": 74.96000000000001,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
