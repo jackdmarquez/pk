@@ -42,82 +42,101 @@ def main():
 
 
     for item in cfg["watchlist"]:
-        base_queries = item["queries"]
-        min_grade = item.get("min_grade")
-        language = item.get("language")
-        include_terms = item.get("include_terms", [])
-        queries, _ = augment_queries(base_queries, min_grade, language, include_terms)
+        try:
+            base_queries = item["queries"]
+            min_grade = item.get("min_grade")
+            language = item.get("language")
+            include_terms = item.get("include_terms", [])
+            queries, _ = augment_queries(base_queries, min_grade, language, include_terms)
 
-        name = item["name"]
-        print(f"[watch] {name}")
+            name = item["name"]
+            print(f"[watch] {name}")
 
-        entries = fetch_card_entries(queries, api_key=pokemontcg_key, max_cards=2)
-        market_candidates = [e["now"] for e in entries if e.get("now") is not None]
-        p_market_now = median(market_candidates) if market_candidates else 0.0
-        print(f"[{name}] entries={len(entries)} samples={[e.get('now') for e in entries][:3]}")
+            entries = fetch_card_entries(queries, api_key=pokemontcg_key, max_cards=2)
+            print(f"[{name}] entries={len(entries)} samples={[e.get('now') for e in entries][:3]}")
 
+            # --- precios ---
+            from statistics import median
+            market_candidates = [e["now"] for e in entries if e.get("now") is not None]
+            p_market_now = median(market_candidates) if market_candidates else 0.0
 
-        if p_market_now == 0.0:
-            cm_values = []
+            if p_market_now == 0.0:
+                cm_values = []
+                for e in entries:
+                    cm = (e.get("cardmarket") or {}).get("prices") if isinstance(e, dict) else None
+                    if cm:
+                        for k in ("avg1","avg7","avg30"):
+                            if cm.get(k): cm_values.append(cm[k])
+                p_market_now = median(cm_values) if cm_values else 0.0
+
+            image_url = None
             for e in entries:
-                cm = (e.get("cardmarket") or {}).get("prices") if isinstance(e, dict) else None
-                if cm:
-                    for k in ("avg1","avg7","avg30"):
-                        if cm.get(k): cm_values.append(cm[k])
-            p_market_now = median(cm_values) if cm_values else 0.0
+                if e.get("image_large"): image_url = e["image_large"]; break
 
-        image_url = None
-        for e in entries:
-            if e.get("image_large"): image_url = e["image_large"]; break
+            price_now = p_market_now
 
-        price_now = p_market_now
+            # --- histórico ---
+            fname = os.path.join(DATA_DIR, f"{slugify(name)}.csv")
+            last_prices = load_last_n(fname, cfg["thresholds"]["breakout_days"])
+            p_24h = last_prices[-1] if last_prices else price_now
+            p_7d  = last_prices[0]  if last_prices else price_now
 
-        fname = os.path.join(DATA_DIR, f"{slugify(name)}.csv")
-        last_prices = load_last_n(fname, cfg["thresholds"]["breakout_days"])
-        p_24h = last_prices[-1] if last_prices else price_now
-        p_7d  = last_prices[0]  if last_prices else price_now
+            append_history_csv(fname, {
+                "ts": now_ts(),
+                "price_now": price_now,
+                "market_now": p_market_now
+            }, fieldnames=["ts","price_now","market_now"])
 
-        append_history_csv(fname, {
-            "ts": now_ts(),
-            "price_now": price_now,
-            "market_now": p_market_now
-        }, fieldnames=["ts","price_now","market_now"])
-
-        ok, meta = price_spike_signal(
-            {"now": price_now, "24h_ago": p_24h, "7d_ago": p_7d},
-            last_prices,
-            cfg
-        )
-
-        # Filtros Cardmarket (opcionales)
-        trend_ok = True
-        avg7_ok = True
-        if use_trend or min_avg7 > 0:
-            trend_ok = False
-            avg7_ok = False
-            for e in entries:
-                cm = (e.get("cardmarket") or {}).get("prices") if isinstance(e, dict) else None
-                if not cm: continue
-                t_ok = (cm.get("avg1",0) >= cm.get("avg7",0) >= cm.get("avg30",0)) if use_trend else True
-                a_ok = (cm.get("avg7",0) >= min_avg7) if min_avg7>0 else True
-                if t_ok and a_ok:
-                    trend_ok, avg7_ok = True, True
-                    break
-
-        if ok and trend_ok and avg7_ok:
-            title = f"📈 Spike: {name}"
-            body = (
-                f"Δ24h: {meta['pct_24h']*100:.1f}% | Δ7d: {meta['pct_7d']*100:.1f}% | breakout: {meta['breakout']}\n"
-                f"Ahora: ${price_now:.2f} (PokémonTCG/CM)\n"
-                f"Queries: {', '.join(queries)}"
+            # --- señales ---
+            ok, meta = price_spike_signal(
+                {"now": price_now, "24h_ago": p_24h, "7d_ago": p_7d},
+                last_prices,
+                cfg
             )
-            if image_url:
-                send_telegram_photo("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", image_url, caption=f"<b>{title}</b>")
-                send_telegram_text("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", body)
+
+            # --- filtros Cardmarket (opcionales) ---
+            use_trend = cfg.get("run", {}).get("use_cardmarket_trend", True)
+            min_avg7 = cfg["thresholds"].get("min_avg7_usd", 0)
+            trend_ok = True
+            avg7_ok = True
+            if (use_trend or min_avg7 > 0) and entries:
+                trend_ok = False
+                avg7_ok = False
+                for e in entries:
+                    cm = (e.get("cardmarket") or {}).get("prices") if isinstance(e, dict) else None
+                    if not cm: continue
+                    t_ok = (cm.get("avg1",0) >= cm.get("avg7",0) >= cm.get("avg30",0)) if use_trend else True
+                    a_ok = (cm.get("avg7",0) >= min_avg7) if min_avg7>0 else True
+                    if t_ok and a_ok:
+                        trend_ok, avg7_ok = True, True
+                        break
+
+            # --- alerta ---
+            force_test = os.getenv("FORCE_TEST_ALERT","false").lower() in ("1","true","yes")
+            if force_test:
+                ok = True
+                meta = {"pct_24h": 0.25, "pct_7d": 0.40, "breakout": True}
+
+            if ok and trend_ok and avg7_ok and price_now > 0:
+                title = f"📈 Spike: {name}"
+                body = (
+                    f"Δ24h: {meta['pct_24h']*100:.1f}% | Δ7d: {meta['pct_7d']*100:.1f}% | breakout: {meta['breakout']}\n"
+                    f"Ahora: ${price_now:.2f} (PokémonTCG/CM)\n"
+                    f"Queries: {', '.join(queries)}"
+                )
+                if image_url:
+                    send_telegram_photo("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", image_url, caption=f"<b>{title}</b>")
+                    send_telegram_text("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", body)
+                else:
+                    send_telegram_text("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", f"<b>{title}</b>\n{body}")
             else:
-                send_telegram_text("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", f"<b>{title}</b>\n{body}")
-        else:
-            print(f"no alert: ok={ok}, trend_ok={trend_ok}, avg7_ok={avg7_ok}, now=${price_now:.2f}")
+                print(f"no alert: ok={ok}, trend_ok={trend_ok}, avg7_ok={avg7_ok}, now=${price_now:.2f}")
+
+        except Exception as e:
+            # Nunca abortes toda la corrida por una carta
+            print(f"[{item.get('name','?')}] ERROR (continuo con la siguiente):", type(e).__name__, str(e)[:300])
+            continue
+
 
     # generar panel al final
     from .panel import build_panel

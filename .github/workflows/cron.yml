@@ -29,6 +29,11 @@ jobs:
           POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_PING: ${{ inputs.send_ping }}
+          POKEMONTCG_TIMEOUT: "30"      # ↑ timeout
+          POKEMONTCG_RETRIES: "3"       # reintentos
+          POKEMONTCG_BACKOFF: "1.5"     # backoff exponencial
+          POKEMONTCG_THROTTLE: "0.4"    # pausa entre requests
         run: python -m src.run && python -m src.panel
       - name: Commit & Push panel/data updates
         run: |
