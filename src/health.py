@@ -1,11 +1,18 @@
 import os, json, html
 from .utils import ensure_dir
+
 DOCS_DIR = os.path.join(os.path.dirname(__file__), "..", "docs")
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+
 def write_health(stats: dict):
     ensure_dir(DOCS_DIR)
+
+    # Guardamos el JSON de estado (útil para depuración)
     with open(os.path.join(DATA_DIR, "status.json"), "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
+
+    # f-string: OJO con las llaves. En CSS ya están escapadas con {{ }}.
+    # En JS eliminamos `${...}` para no chocar con el f-string de Python.
     health_html = f"""<!doctype html>
 <html><head><meta charset="utf-8"><title>Health — Pokémon Bot</title>
 <style>
@@ -16,20 +23,21 @@ th,td{{border:1px solid #ddd; padding:8px; font-size:14px}} th{{background:#f5f5
 .small{{color:#666; font-size:13px}} .btn{{display:inline-block; padding:10px 14px; border:1px solid #444; border-radius:8px; text-decoration:none; margin:6px 6px 0 0}}
 </style>
 <script>
-function buildActionsUrl() {
+function buildActionsUrl() {{
   const host = window.location.hostname;
   const path = window.location.pathname;
   const owner = host.split('.')[0];
-  const repo = path.split('/')[1] || "";
-  if(!owner || !repo) return null;
-  return `https://github.com/${owner}/${repo}/actions/workflows/cron.yml`;
-}
-window.addEventListener('DOMContentLoaded', () => {
+  const repo = (path.split('/')[1] || "");
+  if (!owner || !repo) return null;
+  // Evitamos template literals para no usar {{ }} ni ${{...}}
+  return "https://github.com/" + owner + "/" + repo + "/actions/workflows/cron.yml";
+}}
+window.addEventListener('DOMContentLoaded', () => {{
   const a = buildActionsUrl();
-  if (a) {
+  if (a) {{
     document.querySelectorAll('.actions-link').forEach(b => b.setAttribute('href', a));
-  }
-});
+  }}
+}});
 </script>
 </head><body>
 <h1>Health Dashboard</h1>
