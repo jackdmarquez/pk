@@ -17,26 +17,13 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
-      - name: Run bot (with health ping)
-        env:
-          POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          SEND_PING: "1"
-          POKEMONTCG_TIMEOUT: "20"
-          POKEMONTCG_RETRIES: "3"
-          POKEMONTCG_BACKOFF: "1.5"
-          POKEMONTCG_THROTTLE: "0.5"
-          MAX_QUERY_VARIANTS: "5"
-          WATCH_BATCH_SIZE: "6"
-          MAX_RUNTIME_SEC: "480"
-        run: python -m src.run && python -m src.panel
-      - name: Run bot
+      - name: Run bot 
         env:
           POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SEND_PING: ${{ inputs.send_ping }}
+          FORCE_TEST_ALERT: ${{ inputs.force_test_alert }}
           POKEMONTCG_TIMEOUT: "20"
           POKEMONTCG_RETRIES: "3"
           POKEMONTCG_BACKOFF: "1.5"
@@ -45,6 +32,20 @@ jobs:
           WATCH_BATCH_SIZE: "6"
           MAX_RUNTIME_SEC: "480"
         run: python -m src.run && python -m src.panel
+      # - name: Run bot
+      #   env:
+      #     POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
+      #     TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      #     TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      #     SEND_PING: ${{ inputs.send_ping }}
+      #     POKEMONTCG_TIMEOUT: "20"
+      #     POKEMONTCG_RETRIES: "3"
+      #     POKEMONTCG_BACKOFF: "1.5"
+      #     POKEMONTCG_THROTTLE: "0.5"
+      #     MAX_QUERY_VARIANTS: "5"
+      #     WATCH_BATCH_SIZE: "6"
+      #     MAX_RUNTIME_SEC: "480"
+      #   run: python -m src.run && python -m src.panel
       - name: Commit & Push panel/data updates
         run: |
           git config user.name "price-spike-bot"
