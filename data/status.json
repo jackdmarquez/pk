@@ -1,71 +1,41 @@
 {
-  "started": "2025-10-26T01:52:37.903078",
-  "duration_sec": 501.68,
+  "started": "2025-10-26T08:26:48.718805",
+  "duration_sec": 645.901,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 3,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
+      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 1.55,
-      "pct_24h": 0.04729729729729734,
+      "price_now": 5.6049999999999995,
+      "pct_24h": -0.020104895104895142,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 0.89,
-      "pct_24h": -0.10552763819095466,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 5.3100000000000005,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 422.07,
+      "price_now": 90.015,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Blastoise ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 53.38,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 92.22,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
       "alerted": false,
       "note": ""
     }
