@@ -1,18 +1,38 @@
 {
-  "started": "2025-10-25T16:25:51.754118",
-  "duration_sec": 624.344,
+  "started": "2025-10-26T01:52:37.903078",
+  "duration_sec": 501.68,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 4,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 13.719999999999999,
+      "price_now": 1.55,
+      "pct_24h": 0.04729729729729734,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 0.89,
+      "pct_24h": -0.10552763819095466,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 5.3100000000000005,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -20,32 +40,32 @@
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 5.72,
-      "pct_24h": -0.9117352056168506,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
+      "price_now": 422.07,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 336.28,
-      "pct_24h": 0.008819823603527923,
       "pct_7d": 0.0,
       "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 53.38,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 92.22,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
