@@ -1,18 +1,48 @@
 {
-  "started": "2025-10-29T16:31:30.720761",
-  "duration_sec": 560.182,
+  "started": "2025-10-30T01:53:00.860688",
+  "duration_sec": 417.706,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 14.010000000000002,
+      "price_now": 1.6,
+      "pct_24h": -0.027355623100303907,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 0.925,
+      "pct_24h": -0.02116402116402118,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 5.38,
+      "pct_24h": 0.026717557251908334,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 422.07,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -20,12 +50,22 @@
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 64.805,
+      "price_now": 54.095,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 100.80000000000001,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
