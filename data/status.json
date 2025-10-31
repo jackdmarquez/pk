@@ -1,48 +1,58 @@
 {
-  "started": "2025-10-31T01:49:22.478222",
-  "duration_sec": 582.775,
+  "started": "2025-10-31T08:30:03.948001",
+  "duration_sec": 297.607,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 5,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
+      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Espeon VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 1.54,
-      "pct_24h": -0.03750000000000003,
+      "price_now": 279.21500000000003,
+      "pct_24h": -0.17169005310154542,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 0.885,
-      "pct_24h": -0.04324324324324328,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 5.345000000000001,
-      "pct_24h": -0.0065055762081783,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 422.07,
+      "price_now": 22.83,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -50,9 +60,9 @@
       "note": ""
     },
     {
-      "name": "Blastoise ex Special Illustration (SV 151)",
+      "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 54.095,
+      "price_now": 7.64,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
