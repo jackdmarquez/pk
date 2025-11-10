@@ -1,18 +1,48 @@
 {
-  "started": "2025-11-09T20:20:18.562431",
-  "duration_sec": 525.046,
+  "started": "2025-11-10T01:45:32.866104",
+  "duration_sec": 478.656,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 3,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 13.545,
+      "price_now": 1.525,
+      "pct_24h": 0.03040540540540536,
+      "pct_7d": -0.009740259740259822,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 0.9550000000000001,
+      "pct_24h": -0.025510204081632563,
+      "pct_7d": 0.07909604519774019,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 5.529999999999999,
+      "pct_24h": 0.010968921389396638,
+      "pct_7d": 0.034611786716557284,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 422.07,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -20,19 +50,19 @@
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 5.545,
-      "pct_24h": -0.9166353454108096,
+      "price_now": 54.095,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 7.805,
+      "price_now": 114.85499999999999,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
