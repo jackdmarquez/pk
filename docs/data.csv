@@ -1,12 +1,12 @@
 name,price_now,market_now,pct_24h,pct_7d,breakout
 Lugia Neo Genesis 1St Edition Holo,1799.99,1799.99,0,0,False
 Mewtwo Base Set 1St Edition Holo,224.5,224.5,0,0,False
-Gengar Vmax Alt Art Fusion Strike,216.74,216.74,9.104428904428906,0,False
+Gengar Vmax Alt Art Fusion Strike,21.945,21.945,-0.898749653963274,0,False
 Lugia Full Art Ex Proxy Demand,74.96000000000001,74.96000000000001,0,0,False
-Umbreon Vmax Alt Art Evolving Skies,13.489999999999998,13.489999999999998,-0.008817046289493093,0,False
+Umbreon Vmax Alt Art Evolving Skies,13.489999999999998,13.489999999999998,0.0,0,False
 Aerodactyl V Alt Art Lost Origin,0.915,0.915,-0.026595744680851085,0,False
 Charizard Base Set 1St Edition Holo,388.4,388.4,0,0,False
-Sylveon Vmax Alt Art Evolving Skies,7.96,7.96,-0.009334163036714397,0,False
+Sylveon Vmax Alt Art Evolving Skies,0.0,0.0,-1.0,0,False
 Lugia V Alt Art Silver Tempest,5.8500000000000005,5.8500000000000005,0.031746031746031855,0,False
 Charizard V Alt Art Champion S Path Swsh,388.4,388.4,0,0,False
 Latias Latios Gx Alt Art Team Up,76.21000000000001,76.21000000000001,0,0,False
@@ -15,7 +15,7 @@ Giratina V Alt Art Lost Origin,1.51,1.51,0.010033444816053446,0,False
 Rayquaza Gold Star Ex Deoxys,64.805,64.805,0,0,False
 Charizard Ex Special Illustration Sv 151,422.07,422.07,0.0,0,False
 Blastoise Ex Special Illustration Sv 151,54.095,54.095,0,0,False
-Espeon Vmax Alt Art Fusion Strike,337.96,337.96,0,0,False
-Rayquaza Vmax Alt Art Evolving Skies,66.515,66.515,10.984684684684686,0,False
-Mew Vmax Alt Art Fusion Strike,7.36,7.36,0,0,False
+Espeon Vmax Alt Art Fusion Strike,0.0,0.0,-1.0,0,False
+Rayquaza Vmax Alt Art Evolving Skies,66.515,66.515,0.0,0,False
+Mew Vmax Alt Art Fusion Strike,152.695,152.695,19.746603260869563,0,False
 Venusaur Ex Special Illustration Sv 151,114.61,114.61,-0.0021331243742108777,0,False
