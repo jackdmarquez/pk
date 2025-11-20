@@ -1,6 +1,6 @@
 {
-  "started": "2025-11-20T16:27:53.073040",
-  "duration_sec": 132.028,
+  "started": "2025-11-20T20:24:44.435031",
+  "duration_sec": 360.326,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -14,7 +14,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
@@ -34,7 +34,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
@@ -51,19 +51,19 @@
     },
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 223.315,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
-      "breakout": false,
+      "breakout": true,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
       "price_now": 6.93,
-      "pct_24h": -0.9575926322553009,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
