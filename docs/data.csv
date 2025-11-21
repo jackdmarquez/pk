@@ -1,9 +1,9 @@
 name,price_now,market_now,pct_24h,pct_7d,breakout
 Lugia Neo Genesis 1St Edition Holo,1799.99,1799.99,0,0,False
 Mewtwo Base Set 1St Edition Holo,224.5,224.5,0,0,False
-Gengar Vmax Alt Art Fusion Strike,223.315,223.315,0,0,False
+Gengar Vmax Alt Art Fusion Strike,0.0,0.0,-1.0,0,False
 Lugia Full Art Ex Proxy Demand,74.96000000000001,74.96000000000001,0,0,False
-Umbreon Vmax Alt Art Evolving Skies,12.504999999999999,12.504999999999999,0,0,False
+Umbreon Vmax Alt Art Evolving Skies,0.0,0.0,-1.0,0,False
 Aerodactyl V Alt Art Lost Origin,0.91,0.91,-0.026737967914438526,0,False
 Charizard Base Set 1St Edition Holo,388.4,388.4,0,0,False
 Sylveon Vmax Alt Art Evolving Skies,0.0,0.0,0,0,False
@@ -17,5 +17,5 @@ Charizard Ex Special Illustration Sv 151,426.67,426.67,0.011557747246885335,0,Fa
 Blastoise Ex Special Illustration Sv 151,0.0,0.0,0,0,False
 Espeon Vmax Alt Art Fusion Strike,0.0,0.0,0,0,False
 Rayquaza Vmax Alt Art Evolving Skies,0.0,0.0,0,0,False
-Mew Vmax Alt Art Fusion Strike,6.93,6.93,0.0,0,False
+Mew Vmax Alt Art Fusion Strike,0.0,0.0,-1.0,0,False
 Venusaur Ex Special Illustration Sv 151,115.05499999999999,115.05499999999999,0,0,False
