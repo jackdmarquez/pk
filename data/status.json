@@ -1,9 +1,9 @@
 {
-  "started": "2025-11-22T04:24:22.426262",
-  "duration_sec": 577.806,
+  "started": "2025-11-22T08:25:53.351425",
+  "duration_sec": 807.289,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 3,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -12,9 +12,9 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 12.440000000000001,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0859662013225568,
+      "price_now": 12.39,
+      "pct_24h": -0.004019292604501665,
+      "pct_7d": -0.08154188287620445,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 5.4350000000000005,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0207207207207206,
+      "price_now": 67.02499999999999,
+      "pct_24h": 11.332106715731367,
+      "pct_7d": 0.0076674434338117855,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,12 +32,42 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 91.41499999999999,
-      "pct_24h": 10.29277331686226,
-      "pct_7d": 10.48429648241206,
-      "breakout": true,
+      "price_now": 8.2,
+      "pct_24h": -0.9102991850352786,
+      "pct_7d": 0.030150753768844137,
+      "breakout": false,
       "alerted": false,
       "note": ""
+    },
+    {
+      "name": "Espeon VMAX Alt Art (Fusion Strike)",
+      "entries": 1,
+      "price_now": 332.91,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "entries": 2,
+      "price_now": 21.285,
+      "pct_24h": 0.0,
+      "pct_7d": -0.030075187969924817,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mew VMAX Alt Art (Fusion Strike)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": -1.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
     }
   ]
 }
