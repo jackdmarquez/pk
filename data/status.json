@@ -1,18 +1,18 @@
 {
-  "started": "2025-11-30T20:22:50.481244",
-  "duration_sec": 504.915,
+  "started": "2025-12-01T02:00:09.555355",
+  "duration_sec": 587.772,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 3,
+  "processed": 4,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 12.375,
+      "price_now": 13.8,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -20,19 +20,29 @@
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
+      "name": "Pikachu Van Gogh Promo",
+      "entries": 2,
+      "price_now": 15.83,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 7.97,
+      "price_now": 347.94,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 2,
+      "price_now": 77.55,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
