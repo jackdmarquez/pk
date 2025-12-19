@@ -1,9 +1,9 @@
 {
-  "started": "2025-12-19T08:31:15.187118",
-  "duration_sec": 360.051,
+  "started": "2025-12-19T12:44:04.659746",
+  "duration_sec": 779.72,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -11,63 +11,23 @@
   "items": [
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 12.185,
-      "pct_24h": -0.006522625356706079,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 4.91,
-      "pct_24h": -0.9286077789894585,
-      "pct_7d": -0.9275330233931076,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 8.58,
-      "pct_24h": -0.03595505617977531,
-      "pct_7d": -0.9094793479981009,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
+      "price_now": 68.775,
+      "pct_24h": 13.007128309572304,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": 0.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
