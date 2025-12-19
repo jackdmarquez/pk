@@ -1,6 +1,6 @@
 {
-  "started": "2025-12-19T16:28:10.873176",
-  "duration_sec": 536.938,
+  "started": "2025-12-19T20:24:52.575837",
+  "duration_sec": 758.075,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 2,
@@ -22,9 +22,9 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 4.91,
-      "pct_24h": -0.9286077789894585,
-      "pct_7d": 0.003064351378958237,
+      "price_now": 68.775,
+      "pct_24h": 13.007128309572304,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
