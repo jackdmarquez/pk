@@ -1,6 +1,6 @@
 {
-  "started": "2025-12-23T08:31:41.562386",
-  "duration_sec": 56.603,
+  "started": "2025-12-23T12:47:32.351693",
+  "duration_sec": 58.512,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -23,8 +23,8 @@
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
@@ -34,7 +34,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
@@ -53,7 +53,7 @@
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
