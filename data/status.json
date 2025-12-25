@@ -1,6 +1,6 @@
 {
-  "started": "2025-12-25T08:30:28.340113",
-  "duration_sec": 58.452,
+  "started": "2025-12-25T12:44:31.025376",
+  "duration_sec": 13.699,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -34,7 +34,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
@@ -64,7 +64,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
