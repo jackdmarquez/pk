@@ -1,6 +1,6 @@
 {
-  "started": "2025-12-25T12:44:31.025376",
-  "duration_sec": 13.699,
+  "started": "2025-12-25T16:27:52.705855",
+  "duration_sec": 13.586,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -14,7 +14,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
