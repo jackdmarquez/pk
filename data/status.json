@@ -1,9 +1,9 @@
 {
-  "started": "2025-12-28T16:26:37.214484",
-  "duration_sec": 35.376,
+  "started": "2025-12-28T20:24:30.252334",
+  "duration_sec": 590.53,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 4,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -11,63 +11,43 @@
   "items": [
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 12.440000000000001,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.014268242967794595,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 4.675,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": -0.9320247182842604,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 8.325,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -0.06460674157303382,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": 0.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 282.76,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
