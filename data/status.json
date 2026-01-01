@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-01T16:29:02.749167",
-  "duration_sec": 244.293,
+  "started": "2026-01-01T20:25:37.089702",
+  "duration_sec": 14.041,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -14,7 +14,7 @@
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
@@ -31,13 +31,13 @@
     },
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 8.9,
-      "pct_24h": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
