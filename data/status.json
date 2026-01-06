@@ -1,46 +1,36 @@
 {
-  "started": "2026-01-06T01:50:50.105849",
-  "duration_sec": 498.822,
+  "started": "2026-01-06T04:40:43.055025",
+  "duration_sec": 834.079,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 3,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
+      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 1.79,
-      "pct_24h": 0.07831325301204826,
-      "pct_7d": -0.15165876777251178,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 65.74000000000001,
-      "pct_24h": 77.73053892215572,
-      "pct_7d": 75.00000000000001,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
+      "price_now": 161.5,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
-      "name": "Charizard ex Special Illustration (SV 151)",
+      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "entries": 2,
+      "price_now": 4.77,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -48,26 +38,6 @@
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
-    },
-    {
-      "name": "Blastoise ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 56.235,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 139.67000000000002,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
     }
   ]
 }
