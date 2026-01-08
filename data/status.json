@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-08T16:32:06.905404",
-  "duration_sec": 13.641,
+  "started": "2026-01-08T20:27:04.637942",
+  "duration_sec": 38.053,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -61,13 +61,13 @@
     },
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 5.984999999999999,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
