@@ -1,33 +1,73 @@
 {
-  "started": "2026-01-12T20:27:32.561318",
-  "duration_sec": 591.765,
+  "started": "2026-01-13T01:48:22.020642",
+  "duration_sec": 158.528,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 150.5,
-      "pct_24h": 0.0,
-      "pct_7d": 10.930241775663891,
+      "price_now": 1.775,
+      "pct_24h": 0.08895705521472394,
+      "pct_7d": -0.008379888268156494,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 73.24,
-      "pct_24h": 0.0,
-      "pct_7d": 0.025052484254723676,
+      "price_now": 0.9450000000000001,
+      "pct_24h": 0.07386363636363642,
+      "pct_7d": -0.9856251901429877,
       "breakout": false,
       "alerted": false,
       "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 5.2,
+      "pct_24h": 0.03688933200398795,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": -1.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
     }
   ]
 }
