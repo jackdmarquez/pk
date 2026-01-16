@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-16T04:40:37.097581",
-  "duration_sec": 81.367,
+  "started": "2026-01-16T08:32:26.946673",
+  "duration_sec": 316.523,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 12.805,
-      "pct_24h": -0.9145050909697879,
-      "pct_7d": -0.9207120743034055,
+      "price_now": 12.67,
+      "pct_24h": -0.010542756735650121,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 4.86,
-      "pct_24h": 0.0,
-      "pct_7d": 0.018867924528302046,
+      "price_now": 4.755,
+      "pct_24h": -0.021604938271605024,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,8 +32,8 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 7.645,
-      "pct_24h": 0.0,
+      "price_now": 7.430000000000001,
+      "pct_24h": -0.028122956180510004,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -42,8 +42,8 @@
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
       "entries": 1,
-      "price_now": 300.5,
-      "pct_24h": 0.0,
+      "price_now": 299.35,
+      "pct_24h": -0.0038269550748751325,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -52,8 +52,8 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 19.65,
-      "pct_24h": 0.0,
+      "price_now": 19.959999999999997,
+      "pct_24h": 0.015776081424936323,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -62,8 +62,8 @@
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 5.525,
-      "pct_24h": 0.0,
+      "price_now": 5.175000000000001,
+      "pct_24h": -0.06334841628959269,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
