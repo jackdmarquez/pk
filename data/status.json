@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-20T04:47:02.256717",
-  "duration_sec": 83.362,
+  "started": "2026-01-20T08:34:40.385206",
+  "duration_sec": 196.077,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 12.415,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "price_now": 12.515,
+      "pct_24h": 0.008054772452678327,
+      "pct_7d": -0.048288973384030404,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 4.425,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "price_now": 4.24,
+      "pct_24h": -0.04180790960451969,
+      "pct_7d": -0.12757201646090535,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 7.68,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "price_now": 7.609999999999999,
+      "pct_24h": -0.00911458333333337,
+      "pct_7d": -0.08533653846153856,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -42,8 +42,8 @@
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
       "entries": 1,
-      "price_now": 299.35,
-      "pct_24h": 0.0,
+      "price_now": 296.55,
+      "pct_24h": -0.00935359946550864,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -52,19 +52,19 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 20.765,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
+      "price_now": 21.645,
+      "pct_24h": 0.042379003130267226,
+      "pct_7d": 0.09152798789712545,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 5.005,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "price_now": 5.36,
+      "pct_24h": 0.07092907092907101,
+      "pct_7d": -0.08688245315161836,
       "breakout": false,
       "alerted": false,
       "note": ""
