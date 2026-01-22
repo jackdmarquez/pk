@@ -1,9 +1,9 @@
 {
-  "started": "2026-01-22T12:53:31.678404",
-  "duration_sec": 253.688,
+  "started": "2026-01-22T16:37:41.566666",
+  "duration_sec": 547.877,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 4,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -14,60 +14,40 @@
       "entries": 2,
       "price_now": 12.445,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -0.9173089700996678,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 4.140000000000001,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
       "price_now": 8.254999999999999,
       "pct_24h": 0.0,
-      "pct_7d": 0.03836477987421369,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 296.55,
-      "pct_24h": 0.0,
-      "pct_7d": 0.007611022391356084,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 21.825000000000003,
-      "pct_24h": 0.0,
-      "pct_7d": 0.08663181478715469,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 5.9799999999999995,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
