@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-23T12:51:15.558779",
-  "duration_sec": 224.107,
+  "started": "2026-01-23T16:32:58.653559",
+  "duration_sec": 321.074,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -11,43 +11,43 @@
   "items": [
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
+      "entries": 2,
+      "price_now": 12.285,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": -0.9183720930232558,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": 0.0,
+      "entries": 2,
+      "price_now": 4.05,
+      "pct_24h": 0.0,
+      "pct_7d": -0.16580844490216282,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 8.12,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
+      "price_now": 95.005,
+      "pct_24h": 10.70012315270936,
+      "pct_7d": 0.00105368526421152,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 296.55,
-      "pct_24h": 0.0,
-      "pct_7d": 1.8861313868613139,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
@@ -61,13 +61,13 @@
     },
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "entries": 2,
+      "price_now": 5.5600000000000005,
+      "pct_24h": 0.0,
+      "pct_7d": -0.04385210662080809,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
