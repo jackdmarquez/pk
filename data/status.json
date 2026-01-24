@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-24T04:36:04.824094",
-  "duration_sec": 11.458,
+  "started": "2026-01-24T08:29:16.116288",
+  "duration_sec": 312.19,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 12.285,
-      "pct_24h": 0.0,
-      "pct_7d": -0.048780487804877974,
+      "price_now": 12.695,
+      "pct_24h": 0.033374033374033385,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,8 +22,8 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 4.05,
-      "pct_24h": 0.0,
+      "price_now": 4.06,
+      "pct_24h": 0.0024691358024690833,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -32,19 +32,19 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 8.12,
-      "pct_24h": 0.0,
-      "pct_7d": 0.050452781371280564,
+      "price_now": 7.9799999999999995,
+      "pct_24h": -0.01724137931034479,
+      "pct_7d": 0.03234152652005163,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 296.55,
-      "pct_24h": 0.0,
-      "pct_7d": 1.8861313868613139,
+      "entries": 2,
+      "price_now": 120.165,
+      "pct_24h": -0.594790085988872,
+      "pct_7d": 0.16948905109489057,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -52,9 +52,9 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 21.64,
-      "pct_24h": 0.0,
-      "pct_7d": 0.1262034868592246,
+      "price_now": 21.53,
+      "pct_24h": -0.005083179297597016,
+      "pct_7d": 0.12047879260994022,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,9 +62,9 @@
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 5.5600000000000005,
-      "pct_24h": 0.0,
-      "pct_7d": -0.04385210662080809,
+      "price_now": 5.78,
+      "pct_24h": 0.039568345323740955,
+      "pct_7d": -0.00601891659501277,
       "breakout": false,
       "alerted": false,
       "note": ""
