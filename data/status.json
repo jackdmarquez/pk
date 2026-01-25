@@ -1,6 +1,6 @@
 {
-  "started": "2026-01-25T04:53:12.354051",
-  "duration_sec": 7.009,
+  "started": "2026-01-25T08:29:39.993667",
+  "duration_sec": 169.477,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,8 +12,8 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 12.695,
-      "pct_24h": 0.0,
+      "price_now": 12.549999999999999,
+      "pct_24h": -0.011421819614021375,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -22,8 +22,8 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 4.06,
-      "pct_24h": 0.0,
+      "price_now": 4.025,
+      "pct_24h": -0.008620689655172232,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -32,8 +32,8 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 7.9799999999999995,
-      "pct_24h": 0.0,
+      "price_now": 8.155,
+      "pct_24h": 0.021929824561403487,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -44,7 +44,7 @@
       "entries": 1,
       "price_now": 297.76,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -0.009118136439267918,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -52,9 +52,9 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 21.53,
-      "pct_24h": 0.0,
-      "pct_7d": 0.09567430025445306,
+      "price_now": 21.285,
+      "pct_24h": -0.011379470506270367,
+      "pct_7d": 0.0832061068702291,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,9 +62,9 @@
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 5.78,
-      "pct_24h": 0.0,
-      "pct_7d": 0.04615384615384613,
+      "price_now": 5.805000000000001,
+      "pct_24h": 0.004325259515570995,
+      "pct_7d": 0.05067873303167425,
       "breakout": false,
       "alerted": false,
       "note": ""
