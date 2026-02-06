@@ -1,26 +1,16 @@
 {
-  "started": "2026-02-06T08:43:25.975251",
-  "duration_sec": 184.94,
+  "started": "2026-02-06T13:03:03.720270",
+  "duration_sec": 591.16,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 3,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 12.77,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": -1.0,
@@ -30,7 +20,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": -1.0,
@@ -40,30 +30,10 @@
       "note": "sin precio"
     },
     {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 299.73,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 21.795,
-      "pct_24h": 0.008327550312283123,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 6.205,
-      "pct_24h": -0.008785942492012734,
+      "price_now": 5.359999999999999,
+      "pct_24h": 0.021925643469971272,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
