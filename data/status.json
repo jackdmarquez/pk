@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-07T12:52:44.853960",
-  "duration_sec": 507.098,
+  "started": "2026-02-07T16:32:14.711290",
+  "duration_sec": 564.295,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 5,
@@ -41,9 +41,9 @@
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 300.09,
-      "pct_24h": 0.0,
+      "entries": 2,
+      "price_now": 104.86500000000001,
+      "pct_24h": -0.6505548335499349,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -52,10 +52,10 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 22.025,
-      "pct_24h": 0.0,
+      "price_now": 234.97000000000003,
+      "pct_24h": 9.668331441543701,
       "pct_7d": 0.0,
-      "breakout": false,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
