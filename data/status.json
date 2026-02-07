@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-06T20:36:11.366439",
-  "duration_sec": 456.717,
+  "started": "2026-02-07T02:07:15.228308",
+  "duration_sec": 183.779,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,19 +10,9 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 4.05,
+      "price_now": 75.1,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -30,39 +20,49 @@
       "note": ""
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 8.415,
+      "price_now": 12.129999999999999,
       "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 332.995,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 1,
+      "price_now": 1799.99,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 113.195,
+      "pct_24h": 0.013202649480844918,
       "pct_7d": 0.0,
       "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 299.73,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 21.795,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 6.205,
+      "price_now": 249.36,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
