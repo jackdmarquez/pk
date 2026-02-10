@@ -1,9 +1,9 @@
 {
-  "started": "2026-02-10T13:17:03.784691",
-  "duration_sec": 502.973,
+  "started": "2026-02-10T17:03:32.886235",
+  "duration_sec": 123.358,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 5,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -23,7 +23,7 @@
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
       "price_now": 1.025,
-      "pct_24h": 0.0459183673469387,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -41,16 +41,26 @@
     },
     {
       "name": "Charizard ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 495.21,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 0,
+      "price_now": 0.0,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
-      "name": "Blastoise ex Special Illustration (SV 151)",
+      "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": -1.0,
