@@ -1,48 +1,18 @@
 {
-  "started": "2026-02-10T08:57:30.224037",
-  "duration_sec": 104.689,
+  "started": "2026-02-10T13:17:03.784691",
+  "duration_sec": 502.973,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 5,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 14.335,
-      "pct_24h": 0.01558625575628781,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 3.885,
-      "pct_24h": -0.018939393939393985,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 8.85,
-      "pct_24h": 0.037514654161781985,
-      "pct_7d": 0.0,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 300.21,
+      "price_now": 1.77,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -50,24 +20,44 @@
       "note": ""
     },
     {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 24.1,
-      "pct_24h": -0.007209062821833045,
+      "price_now": 1.025,
+      "pct_24h": 0.0459183673469387,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 6.01,
-      "pct_24h": -0.022764227642276372,
+      "price_now": 5.085,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 495.21,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
     }
   ]
 }
