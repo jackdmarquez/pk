@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-10T02:33:54.968121",
-  "duration_sec": 14.332,
+  "started": "2026-02-10T05:27:50.733396",
+  "duration_sec": 127.733,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,9 +10,9 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 75.41499999999999,
+      "price_now": 1.77,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -20,9 +20,9 @@
       "note": ""
     },
     {
-      "name": "Pikachu Van Gogh Promo",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 14.629999999999999,
+      "price_now": 0.98,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -30,9 +30,9 @@
       "note": ""
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 332.995,
+      "price_now": 5.085,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -40,9 +40,9 @@
       "note": ""
     },
     {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1799.99,
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 495.21,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -50,9 +50,9 @@
       "note": ""
     },
     {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 113.195,
+      "price_now": 58.06,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -60,9 +60,9 @@
       "note": ""
     },
     {
-      "name": "Mewtwo Base Set 1st Edition Holo",
+      "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 249.36,
+      "price_now": 137.36,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
