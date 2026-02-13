@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-13T08:44:47.131992",
-  "duration_sec": 517.611,
+  "started": "2026-02-13T13:03:36.887005",
+  "duration_sec": 508.813,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 2,
@@ -10,21 +10,21 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 165.54500000000002,
-      "pct_24h": 10.68690434168726,
-      "pct_7d": 0.0,
+      "price_now": 45.34,
+      "pct_24h": 27.42633228840126,
+      "pct_7d": 26.478787878787884,
       "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 114.80499999999999,
-      "pct_24h": 28.858257477243175,
-      "pct_7d": 0.0,
+      "price_now": 69.695,
+      "pct_24h": 62.940366972477065,
+      "pct_7d": 67.66502463054186,
       "breakout": true,
       "alerted": false,
       "note": ""
