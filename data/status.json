@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-13T02:27:32.932093",
-  "duration_sec": 489.579,
+  "started": "2026-02-13T05:21:51.847792",
+  "duration_sec": 587.753,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 4,
@@ -10,39 +10,39 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 75.25999999999999,
-      "pct_24h": 0.0005982849165723259,
-      "pct_7d": 0.0031991468941612988,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 18.945,
-      "pct_24h": 0.31198060941828243,
+      "price_now": 1.595,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 495.21,
-      "pct_24h": 0.4871394465382362,
-      "pct_7d": -0.0008373266078184524,
+      "price_now": 1.0899999999999999,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1799.99,
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 85.495,
+      "pct_24h": 15.115928369462772,
+      "pct_7d": 0.0,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 495.21,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
