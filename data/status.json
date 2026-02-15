@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-15T02:27:27.613301",
-  "duration_sec": 48.122,
+  "started": "2026-02-15T05:19:22.785426",
+  "duration_sec": 12.995,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,17 +10,7 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
-      "entries": 2,
-      "price_now": 75.25999999999999,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0021304926764313795,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Pikachu Van Gogh Promo",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -30,7 +20,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -40,31 +30,41 @@
       "note": "sin precio"
     },
     {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
     },
     {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
     },
     {
-      "name": "Mewtwo Base Set 1st Edition Holo",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
