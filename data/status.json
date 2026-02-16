@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-16T02:23:54.427183",
-  "duration_sec": 101.633,
+  "started": "2026-02-16T05:27:00.996224",
+  "duration_sec": 34.325,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,17 +10,27 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
     },
     {
-      "name": "Pikachu Van Gogh Promo",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -30,7 +40,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -40,27 +50,17 @@
       "note": "sin precio"
     },
     {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
     },
     {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": 0.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
+      "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
