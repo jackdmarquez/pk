@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-19T02:23:31.455426",
-  "duration_sec": 13.345,
+  "started": "2026-02-19T05:21:40.802960",
+  "duration_sec": 56.219,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,7 +10,17 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Giratina V Alt Art (Lost Origin)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
+      "breakout": false,
+      "alerted": false,
+      "note": "sin precio"
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -20,7 +30,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Pikachu Van Gogh Promo",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -30,7 +40,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -40,7 +50,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -50,17 +60,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": 0.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
+      "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
