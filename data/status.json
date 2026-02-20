@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-19T20:34:57.080698",
-  "duration_sec": 13.59,
+  "started": "2026-02-20T02:11:49.024414",
+  "duration_sec": 245.726,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,7 +10,7 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -20,7 +20,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -30,7 +30,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard Base Set 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -40,34 +40,34 @@
       "note": "sin precio"
     },
     {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 2,
+      "price_now": 85.495,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": -0.9525025139028549,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 114.80499999999999,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
-      "breakout": false,
+      "pct_7d": 0.014223243076107598,
+      "breakout": true,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 0,
-      "price_now": 0.0,
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 249.36,
       "pct_24h": 0.0,
-      "pct_7d": -1.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
