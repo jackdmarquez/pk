@@ -1,16 +1,26 @@
 {
-  "started": "2026-02-23T20:46:05.680210",
-  "duration_sec": 812.359,
+  "started": "2026-02-24T02:13:14.391731",
+  "duration_sec": 574.332,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 3,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "entries": 2,
+      "price_now": 75.875,
+      "pct_24h": 0.0,
+      "pct_7d": 0.00817167153866608,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Pikachu Van Gogh Promo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -20,7 +30,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard Base Set 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
