@@ -1,6 +1,6 @@
 {
-  "started": "2026-02-24T13:09:36.554547",
-  "duration_sec": 322.882,
+  "started": "2026-02-24T17:07:11.653927",
+  "duration_sec": 104.262,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -11,13 +11,13 @@
   "items": [
     {
       "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.52,
-      "pct_24h": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
