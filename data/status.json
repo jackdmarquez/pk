@@ -1,6 +1,6 @@
 {
-  "started": "2026-03-01T20:28:47.402163",
-  "duration_sec": 13.357,
+  "started": "2026-03-02T02:13:01.728443",
+  "duration_sec": 33.175,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,7 +10,7 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -20,7 +20,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -30,7 +30,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard Base Set 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -40,7 +40,7 @@
       "note": "sin precio"
     },
     {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
+      "name": "Lugia Neo Genesis 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
@@ -50,21 +50,21 @@
       "note": "sin precio"
     },
     {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 0,
       "price_now": 0.0,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
     },
     {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
+      "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
       "note": "sin precio"
