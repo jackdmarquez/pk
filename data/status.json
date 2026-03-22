@@ -1,6 +1,6 @@
 {
-  "started": "2026-03-22T12:54:54.663976",
-  "duration_sec": 258.661,
+  "started": "2026-03-22T16:33:04.661247",
+  "duration_sec": 50.23,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,7 +13,7 @@
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
@@ -21,19 +21,19 @@
     },
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 116.36999999999999,
-      "pct_24h": 21.61807580174927,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
       "price_now": 10.014999999999999,
-      "pct_24h": -0.8911767901771162,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
