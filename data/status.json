@@ -1,6 +1,6 @@
 {
-  "started": "2026-03-25T02:24:40.495954",
-  "duration_sec": 25.167,
+  "started": "2026-03-25T05:23:15.112289",
+  "duration_sec": 96.515,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,49 +10,19 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 79.175,
-      "pct_24h": -0.0003787639669212946,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 25.64,
-      "pct_24h": 0.4453213077790306,
-      "pct_7d": 0.8005617977528092,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 475.36,
+      "price_now": 1.8650000000000002,
       "pct_24h": 0.0,
-      "pct_7d": 0.0515302003030538,
+      "pct_7d": 0.06876790830945564,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1798.78,
-      "pct_24h": 0.6435019369929098,
-      "pct_7d": 0.6435019369929098,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 116.36999999999999,
+      "price_now": 1.28,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -60,9 +30,39 @@
       "note": ""
     },
     {
-      "name": "Mewtwo Base Set 1st Edition Holo",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 274.235,
+      "price_now": 6.555,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 1121.39,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 58.45,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 144.08499999999998,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
