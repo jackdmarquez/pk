@@ -1,6 +1,6 @@
 {
-  "started": "2026-03-26T13:19:43.749075",
-  "duration_sec": 9.573,
+  "started": "2026-03-26T17:03:50.141358",
+  "duration_sec": 137.804,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,8 +13,8 @@
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
       "price_now": 1.8900000000000001,
-      "pct_24h": 0.010695187165775409,
-      "pct_7d": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.041322314049586875,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -23,8 +23,8 @@
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
       "price_now": 1.195,
-      "pct_24h": -0.012396694214875952,
-      "pct_7d": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.012711864406779768,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -33,8 +33,8 @@
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
       "price_now": 6.82,
-      "pct_24h": 0.012620638455827893,
-      "pct_7d": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": -0.025714285714285672,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -44,7 +44,7 @@
       "entries": 2,
       "price_now": 1121.39,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 1.2644736576401931,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -53,8 +53,8 @@
       "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
       "price_now": 55.925000000000004,
-      "pct_24h": -0.04319931565440545,
-      "pct_7d": 0.0,
+      "pct_24h": 0.0,
+      "pct_7d": -0.040655287760528305,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -64,7 +64,7 @@
       "entries": 2,
       "price_now": 144.08499999999998,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -0.0005895817437747657,
       "breakout": false,
       "alerted": false,
       "note": ""
