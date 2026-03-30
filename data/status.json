@@ -1,20 +1,20 @@
 {
-  "started": "2026-03-30T05:59:16.776281",
-  "duration_sec": 17.019,
+  "started": "2026-03-30T09:14:02.589906",
+  "duration_sec": 31.193,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
-  "alerts_sent": 1,
+  "alerts_sent": 0,
   "items": [
     {
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.895,
-      "pct_24h": 0.02432432432432441,
-      "pct_7d": 0.12797619047619052,
+      "price_now": 1.73,
+      "pct_24h": -0.08707124010554092,
+      "pct_7d": 0.029761904761904788,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.315,
-      "pct_24h": 0.05622489959839344,
-      "pct_7d": 0.015444015444015458,
+      "price_now": 1.3399999999999999,
+      "pct_24h": 0.019011406844106397,
+      "pct_7d": 0.034749034749034693,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 8.1,
-      "pct_24h": -0.0006169031462061421,
-      "pct_7d": -0.8842112786791508,
+      "price_now": 8.26,
+      "pct_24h": 0.019753086419753103,
+      "pct_7d": -0.8819240940604675,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -43,10 +43,10 @@
       "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 2,
       "price_now": 1296.89,
-      "pct_24h": 0.15650219816477762,
+      "pct_24h": 0.0,
       "pct_7d": 1.6129591199403626,
-      "breakout": true,
-      "alerted": true,
+      "breakout": false,
+      "alerted": false,
       "note": ""
     },
     {
@@ -63,7 +63,7 @@
       "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
       "price_now": 144.07,
-      "pct_24h": 0.0001041268959771362,
+      "pct_24h": 0.0,
       "pct_7d": -6.940588561903738e-05,
       "breakout": false,
       "alerted": false,
