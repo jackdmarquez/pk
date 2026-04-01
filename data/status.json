@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-01T16:57:02.688990",
-  "duration_sec": 13.744,
+  "started": "2026-04-01T20:46:12.388899",
+  "duration_sec": 6.298,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,8 +13,8 @@
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
       "price_now": 14.795,
-      "pct_24h": 0.0061203672220333126,
-      "pct_7d": -0.017922336541652924,
+      "pct_24h": 0.0,
+      "pct_7d": -0.0159627535749917,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -23,8 +23,8 @@
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
       "price_now": 5.3549999999999995,
-      "pct_24h": 0.014204545454545319,
-      "pct_7d": 0.04081632653061224,
+      "pct_24h": 0.0,
+      "pct_7d": 0.029807692307692184,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -34,7 +34,7 @@
       "entries": 2,
       "price_now": 9.32,
       "pct_24h": 0.0,
-      "pct_7d": -0.06939590614078868,
+      "pct_7d": -0.05428716387620498,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -43,8 +43,8 @@
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
       "entries": 1,
       "price_now": 292.19,
-      "pct_24h": -0.0025602512459889397,
-      "pct_7d": -0.0030707291275716584,
+      "pct_24h": 0.0,
+      "pct_7d": -0.005649140718053513,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -53,8 +53,8 @@
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
       "price_now": 28.845,
-      "pct_24h": -0.021041914135414813,
-      "pct_7d": 0.05139420448332423,
+      "pct_24h": 0.0,
+      "pct_7d": 0.05235315578256106,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -63,8 +63,8 @@
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
       "price_now": 7.52,
-      "pct_24h": -0.018276762402088847,
-      "pct_7d": -0.05705329153605017,
+      "pct_24h": 0.0,
+      "pct_7d": -0.0873786407766991,
       "breakout": false,
       "alerted": false,
       "note": ""
