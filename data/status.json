@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-01T05:55:19.911800",
-  "duration_sec": 19.104,
+  "started": "2026-04-01T09:06:47.054920",
+  "duration_sec": 63.74,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.775,
-      "pct_24h": 0.0,
-      "pct_7d": 0.014285714285714235,
+      "price_now": 1.75,
+      "pct_24h": -0.014084507042253471,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.23,
-      "pct_24h": 0.0,
-      "pct_7d": -0.050193050193050155,
+      "price_now": 1.2349999999999999,
+      "pct_24h": 0.004065040650406418,
+      "pct_7d": -0.04633204633204638,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 8.245000000000001,
-      "pct_24h": 0.0,
-      "pct_7d": 0.13100137174211263,
+      "price_now": 7.51,
+      "pct_24h": -0.08914493632504562,
+      "pct_7d": 0.030178326474622735,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,10 +62,10 @@
     {
       "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 144.07,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0001735568745878419,
-      "breakout": false,
+      "price_now": 144.225,
+      "pct_24h": 0.00107586589852156,
+      "pct_7d": 0.0012496094970322249,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
