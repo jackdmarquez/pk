@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-06T05:59:23.426072",
-  "duration_sec": 16.492,
+  "started": "2026-04-06T09:11:03.242066",
+  "duration_sec": 31.49,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.6749999999999998,
-      "pct_24h": 0.0,
-      "pct_7d": -0.1137566137566139,
+      "price_now": 1.575,
+      "pct_24h": -0.05970149253731336,
+      "pct_7d": -0.16666666666666674,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.19,
-      "pct_24h": 0.0,
-      "pct_7d": -0.008333333333333342,
+      "price_now": 1.12,
+      "pct_24h": -0.05882352941176457,
+      "pct_7d": -0.06666666666666654,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 7.385,
-      "pct_24h": 0.0,
-      "pct_7d": 0.08284457478005858,
+      "price_now": 7.66,
+      "pct_24h": 0.03723764387271501,
+      "pct_7d": 0.12316715542521992,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -52,19 +52,19 @@
     {
       "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 55.82000000000001,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0018775145283861756,
-      "breakout": false,
+      "price_now": 71.96,
+      "pct_24h": 0.28914367610175534,
+      "pct_7d": 0.28672329012069714,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 144.45499999999998,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0034384551264240388,
+      "price_now": 144.495,
+      "pct_24h": 0.00027690284171555477,
+      "pct_7d": 0.003716310086135212,
       "breakout": false,
       "alerted": false,
       "note": ""
