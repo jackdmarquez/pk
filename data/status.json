@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-07T05:46:43.375134",
-  "duration_sec": 15.054,
+  "started": "2026-04-07T09:04:24.916675",
+  "duration_sec": 19.59,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.575,
-      "pct_24h": 0.0,
-      "pct_7d": -0.1486486486486486,
+      "price_now": 1.635,
+      "pct_24h": 0.03809523809523813,
+      "pct_7d": -0.11621621621621615,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.12,
-      "pct_24h": 0.0,
-      "pct_7d": -0.1004016064257028,
+      "price_now": 1.145,
+      "pct_24h": 0.02232142857142849,
+      "pct_7d": -0.08032128514056232,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 7.66,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0549043800123381,
+      "price_now": 7.4799999999999995,
+      "pct_24h": -0.02349869451697136,
+      "pct_7d": -0.07711289327575581,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -52,9 +52,9 @@
     {
       "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 71.96,
-      "pct_24h": 0.0,
-      "pct_7d": 0.28672329012069714,
+      "price_now": 71.07,
+      "pct_24h": -0.012367982212340199,
+      "pct_7d": 0.2708091193562805,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,10 +62,10 @@
     {
       "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 144.495,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0030543889486654243,
-      "breakout": false,
+      "price_now": 144.7,
+      "pct_24h": 0.0014187342122563692,
+      "pct_7d": 0.004477456527020803,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
