@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-16T02:47:32.967921",
-  "duration_sec": 13.22,
+  "started": "2026-04-16T06:02:01.325731",
+  "duration_sec": 149.6,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,18 +13,18 @@
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
       "price_now": 80.2,
-      "pct_24h": 0.006526104417670632,
+      "pct_24h": 0.0,
       "pct_7d": 0.010266423127795075,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 14.915,
-      "pct_24h": -0.09110298598415606,
-      "pct_7d": 0.0448336252189141,
+      "price_now": 15.155,
+      "pct_24h": 0.016091183372443862,
+      "pct_7d": 0.06164623467600693,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,10 +62,10 @@
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 275.89,
-      "pct_24h": 0.0,
-      "pct_7d": -9.060761466405996e-05,
-      "breakout": false,
+      "price_now": 276.42,
+      "pct_24h": 0.0019210554931314277,
+      "pct_7d": 0.0018302738162114978,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
