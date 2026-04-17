@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-17T02:42:20.630562",
-  "duration_sec": 13.098,
+  "started": "2026-04-17T06:03:38.537399",
+  "duration_sec": 28.739,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -23,7 +23,7 @@
       "name": "Pikachu Van Gogh Promo",
       "entries": 2,
       "price_now": 20.515,
-      "pct_24h": 0.3536786539096009,
+      "pct_24h": 0.0,
       "pct_7d": 0.43712784588441334,
       "breakout": false,
       "alerted": false,
