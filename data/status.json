@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-20T02:50:42.831483",
-  "duration_sec": 11.978,
+  "started": "2026-04-20T06:15:56.870709",
+  "duration_sec": 57.575,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,18 +13,18 @@
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
       "price_now": 80.92,
-      "pct_24h": 0.0014851485148515415,
+      "pct_24h": 0.0,
       "pct_7d": 0.025537038210506312,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 20.32,
-      "pct_24h": 0.0,
-      "pct_7d": -0.12770980897188244,
+      "price_now": 19.15,
+      "pct_24h": -0.0575787401574804,
+      "pct_7d": -0.17793517922300936,
       "breakout": false,
       "alerted": false,
       "note": ""
