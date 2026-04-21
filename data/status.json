@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-21T02:43:29.315369",
-  "duration_sec": 19.449,
+  "started": "2026-04-21T06:03:00.243375",
+  "duration_sec": 32.457,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -22,10 +22,10 @@
     {
       "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 19.15,
-      "pct_24h": 0.0,
-      "pct_7d": -0.020209772320286677,
-      "breakout": false,
+      "price_now": 21.77,
+      "pct_24h": 0.13681462140992173,
+      "pct_7d": 0.11383985674085433,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
@@ -62,9 +62,9 @@
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 276.25,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0013048678821269842,
+      "price_now": 215.005,
+      "pct_24h": -0.22170135746606337,
+      "pct_7d": -0.2206857805647178,
       "breakout": false,
       "alerted": false,
       "note": ""
