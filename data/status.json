@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-22T02:41:54.023825",
-  "duration_sec": 348.822,
+  "started": "2026-04-22T06:00:13.544700",
+  "duration_sec": 39.419,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,61 +13,61 @@
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
       "price_now": 82.0,
-      "pct_24h": 0.013346515076618862,
-      "pct_7d": 0.03922438375261389,
-      "breakout": true,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0284065968520725,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 21.77,
-      "pct_24h": 0.0,
-      "pct_7d": 0.11383985674085433,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 478.125,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 2,
-      "price_now": 92.535,
-      "pct_24h": -0.9288170405243238,
-      "pct_7d": -0.9288170405243238,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 120.3,
-      "pct_24h": 0.0,
-      "pct_7d": 0.003670949441014617,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 215.005,
-      "pct_24h": 0.0,
-      "pct_7d": -0.2206857805647178,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
