@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-23T02:45:30.858916",
-  "duration_sec": 12.058,
+  "started": "2026-04-23T06:06:45.717836",
+  "duration_sec": 33.425,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 82.015,
-      "pct_24h": 0.00018292682926829962,
-      "pct_7d": 0.02859472001003325,
+      "price_now": 82.19,
+      "pct_24h": 0.002133756020240165,
+      "pct_7d": 0.03150100401606414,
       "breakout": true,
       "alerted": false,
       "note": ""
@@ -25,7 +25,7 @@
       "price_now": 78.44000000000001,
       "pct_24h": 0.0,
       "pct_7d": 4.120104438642298,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
@@ -35,7 +35,7 @@
       "price_now": 484.48,
       "pct_24h": 0.0,
       "pct_7d": 0.013291503267973894,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
@@ -52,10 +52,10 @@
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 2,
-      "price_now": 120.3,
-      "pct_24h": 0.0,
-      "pct_7d": 0.003670949441014617,
-      "breakout": false,
+      "price_now": 123.635,
+      "pct_24h": 0.027722360764754848,
+      "pct_7d": 0.029262404262404267,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
