@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-26T02:51:56.741818",
-  "duration_sec": 24.029,
+  "started": "2026-04-26T06:07:13.722445",
+  "duration_sec": 26.132,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,9 +13,9 @@
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
       "price_now": 82.795,
-      "pct_24h": 0.0010276870995043885,
+      "pct_24h": 0.0,
       "pct_7d": 0.03235660847880298,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
@@ -24,7 +24,7 @@
       "entries": 2,
       "price_now": 24.525,
       "pct_24h": 0.0,
-      "pct_7d": 0.6182777961068954,
+      "pct_7d": 0.19546673165976106,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,10 +32,10 @@
     {
       "name": "Charizard Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 484.48,
-      "pct_24h": 0.0,
-      "pct_7d": 0.013291503267973894,
-      "breakout": false,
+      "price_now": 485.07000000000005,
+      "pct_24h": 0.0012178005284016508,
+      "pct_7d": 0.014525490196078536,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
@@ -62,9 +62,9 @@
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 215.005,
-      "pct_24h": 0.0,
-      "pct_7d": -0.2221800159178063,
+      "price_now": 215.515,
+      "pct_24h": 0.0023720378595846188,
+      "pct_7d": -0.22033499746762183,
       "breakout": false,
       "alerted": false,
       "note": ""
