@@ -1,6 +1,6 @@
 {
-  "started": "2026-04-28T06:29:35.343994",
-  "duration_sec": 13.319,
+  "started": "2026-04-28T10:14:57.174344",
+  "duration_sec": 16.492,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -53,7 +53,7 @@
       "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 2,
       "price_now": 120.3,
-      "pct_24h": -0.026974562219436306,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
