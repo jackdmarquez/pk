@@ -1,70 +1,30 @@
 {
-  "started": "2026-04-27T21:03:46.549372",
-  "duration_sec": 23.091,
+  "started": "2026-04-28T03:23:13.515524",
+  "duration_sec": 9.832,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.87,
-      "pct_24h": 0.0,
-      "pct_7d": 0.03030303030303039,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.2650000000000001,
-      "pct_24h": 0.0,
-      "pct_7d": 0.024291497975708707,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 9.219999999999999,
-      "pct_24h": 0.0,
-      "pct_7d": 0.13686806411837232,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
       "price_now": 520.035,
       "pct_24h": 0.0,
-      "pct_7d": 0.04086105440134495,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Blastoise ex Special Illustration (SV 151)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 64.38499999999999,
+      "price_now": 92.535,
       "pct_24h": 0.0,
-      "pct_7d": 0.08602513283292561,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 153.39,
-      "pct_24h": 0.0,
-      "pct_7d": 0.054951856946354745,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
