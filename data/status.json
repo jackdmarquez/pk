@@ -1,6 +1,6 @@
 {
-  "started": "2026-05-02T02:49:09.290175",
-  "duration_sec": 11.978,
+  "started": "2026-05-02T06:07:14.487393",
+  "duration_sec": 15.803,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -14,7 +14,7 @@
       "entries": 2,
       "price_now": 85.11,
       "pct_24h": 0.0,
-      "pct_7d": 0.037926829268292675,
+      "pct_7d": 0.03773699932939095,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -24,7 +24,7 @@
       "entries": 2,
       "price_now": 21.775,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -0.7223992860785314,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -34,7 +34,7 @@
       "entries": 2,
       "price_now": 485.07000000000005,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.0012178005284016508,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -54,7 +54,7 @@
       "entries": 2,
       "price_now": 120.63499999999999,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.0027847049044056006,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -64,7 +64,7 @@
       "entries": 2,
       "price_now": 215.945,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.004371991349038384,
       "breakout": false,
       "alerted": false,
       "note": ""
