@@ -1,18 +1,48 @@
 {
-  "started": "2026-05-03T03:24:08.344960",
-  "duration_sec": 10.061,
+  "started": "2026-05-03T06:26:50.853346",
+  "duration_sec": 15.046,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 520.035,
+      "price_now": 85.21000000000001,
+      "pct_24h": 0.0011749500646223538,
+      "pct_7d": 0.03674412945613834,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Pikachu Van Gogh Promo",
+      "entries": 2,
+      "price_now": 38.775,
+      "pct_24h": 0.7807118254879449,
+      "pct_7d": -0.5056731259561449,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 485.65000000000003,
+      "pct_24h": 0.0011957037128661513,
+      "pct_7d": 0.0024149603698811425,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 1,
+      "price_now": 1299.96,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -20,11 +50,21 @@
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 2,
-      "price_now": 91.715,
+      "price_now": 120.63499999999999,
       "pct_24h": 0.0,
-      "pct_7d": -0.008861511860377081,
+      "pct_7d": -0.024264973510737364,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 215.945,
+      "pct_24h": 0.0,
+      "pct_7d": 0.004371991349038384,
       "breakout": false,
       "alerted": false,
       "note": ""
