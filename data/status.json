@@ -1,6 +1,6 @@
 {
-  "started": "2026-05-07T02:58:00.094024",
-  "duration_sec": 12.199,
+  "started": "2026-05-07T06:35:29.069522",
+  "duration_sec": 13.066,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -32,9 +32,9 @@
     {
       "name": "Charizard Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 485.65000000000003,
-      "pct_24h": 0.0,
-      "pct_7d": -0.01571731133652869,
+      "price_now": 464.11,
+      "pct_24h": -0.04435292906414088,
+      "pct_7d": -0.0593731316058815,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,9 +62,9 @@
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 215.945,
-      "pct_24h": 0.0,
-      "pct_7d": 0.001995220750295835,
+      "price_now": 215.515,
+      "pct_24h": -0.001991247771423311,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
