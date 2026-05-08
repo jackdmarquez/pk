@@ -1,16 +1,46 @@
 {
-  "started": "2026-05-08T03:18:39.456484",
-  "duration_sec": 11.008,
+  "started": "2026-05-08T05:57:04.605669",
+  "duration_sec": 15.539,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Giratina V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 1.87,
+      "pct_24h": 0.0,
+      "pct_7d": -0.00795755968169756,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 1.195,
+      "pct_24h": 0.0,
+      "pct_7d": -0.04780876494023891,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 10.765,
+      "pct_24h": 0.0,
+      "pct_7d": 0.15566290928609783,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 2,
       "price_now": 521.4300000000001,
       "pct_24h": 0.0,
@@ -20,11 +50,21 @@
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 91.28999999999999,
-      "pct_24h": -0.004633920296571023,
-      "pct_7d": -0.013454368617279997,
+      "price_now": 64.445,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0009318940747068771,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 153.605,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0016955231667155166,
       "breakout": false,
       "alerted": false,
       "note": ""
