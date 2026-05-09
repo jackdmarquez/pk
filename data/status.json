@@ -1,6 +1,6 @@
 {
-  "started": "2026-05-09T02:55:24.322203",
-  "duration_sec": 12.789,
+  "started": "2026-05-09T06:16:52.568334",
+  "duration_sec": 24.641,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 84.765,
-      "pct_24h": 0.0,
-      "pct_7d": 0.023546458974823437,
+      "price_now": 85.045,
+      "pct_24h": 0.003303250162213191,
+      "pct_7d": 0.02692748898146476,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,10 +22,10 @@
     {
       "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 39.53,
-      "pct_24h": 0.019471308833011028,
-      "pct_7d": 0.8153846153846156,
-      "breakout": true,
+      "price_now": 21.905,
+      "pct_24h": -0.445863900834809,
+      "pct_7d": 0.005970149253731461,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
@@ -52,9 +52,9 @@
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 2,
-      "price_now": 158.465,
-      "pct_24h": 0.0,
-      "pct_7d": 0.31359058316409016,
+      "price_now": 158.22,
+      "pct_24h": -0.0015460827312025025,
+      "pct_7d": 0.31155966344758995,
       "breakout": false,
       "alerted": false,
       "note": ""
