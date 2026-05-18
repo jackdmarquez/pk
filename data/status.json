@@ -1,31 +1,71 @@
 {
-  "started": "2026-05-18T03:50:15.271784",
-  "duration_sec": 50.879,
+  "started": "2026-05-18T08:04:50.024552",
+  "duration_sec": 9.716,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 521.665,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "price_now": 17.33,
+      "pct_24h": 0.0008663008951774192,
+      "pct_7d": -0.03588317107093202,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 91.715,
-      "pct_24h": 0.0,
-      "pct_7d": 0.00465549348230925,
-      "breakout": false,
+      "price_now": 7.135,
+      "pct_24h": 0.007768361581920864,
+      "pct_7d": 0.058605341246290736,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "entries": 2,
+      "price_now": 11.495000000000001,
+      "pct_24h": 0.00966183574879222,
+      "pct_7d": 0.07934272300469489,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Espeon VMAX Alt Art (Fusion Strike)",
+      "entries": 1,
+      "price_now": 302.21,
+      "pct_24h": 0.002388138910079838,
+      "pct_7d": 0.05171393770662939,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "entries": 2,
+      "price_now": 30.425,
+      "pct_24h": 0.018069265517818275,
+      "pct_7d": 0.033633429590623355,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mew VMAX Alt Art (Fusion Strike)",
+      "entries": 2,
+      "price_now": 11.36,
+      "pct_24h": 0.07575757575757565,
+      "pct_7d": 0.076777251184834,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
