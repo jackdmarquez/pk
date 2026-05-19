@@ -1,71 +1,31 @@
 {
-  "started": "2026-05-18T21:12:40.912206",
-  "duration_sec": 9.356,
+  "started": "2026-05-19T03:40:30.077935",
+  "duration_sec": 12.867,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 2.29,
-      "pct_24h": -0.02553191489361686,
-      "pct_7d": 0.1565656565656566,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.345,
-      "pct_24h": -0.014652014652014666,
-      "pct_7d": 0.07171314741035864,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 10.85,
-      "pct_24h": 0.04076738609112699,
-      "pct_7d": 0.09817813765182194,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
       "price_now": 520.035,
-      "pct_24h": -0.0031246106217591666,
+      "pct_24h": 0.0,
       "pct_7d": -0.0031246106217591666,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Blastoise ex Special Illustration (SV 151)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 64.445,
+      "price_now": 91.715,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.00465549348230925,
       "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 153.71499999999997,
-      "pct_24h": 0.00042303937520336957,
-      "pct_7d": 0.000781275432142818,
-      "breakout": true,
       "alerted": false,
       "note": ""
     }
