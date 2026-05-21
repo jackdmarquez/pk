@@ -1,71 +1,31 @@
 {
-  "started": "2026-05-20T21:55:28.218749",
-  "duration_sec": 23.688,
+  "started": "2026-05-21T03:52:59.753782",
+  "duration_sec": 16.873,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 2.155,
-      "pct_24h": -0.04222222222222231,
-      "pct_7d": 0.0023255813953487877,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.26,
-      "pct_24h": -0.027027027027026966,
-      "pct_7d": 0.012048192771084258,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 10.515,
-      "pct_24h": 0.0023832221163012732,
-      "pct_7d": 0.03647116806308536,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
       "price_now": 516.345,
-      "pct_24h": -0.00709567625255981,
+      "pct_24h": 0.0,
       "pct_7d": -0.010198115648931664,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Blastoise ex Special Illustration (SV 151)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 66.46000000000001,
-      "pct_24h": 0.03126697183644992,
-      "pct_7d": 0.03126697183644992,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 153.905,
-      "pct_24h": 0.00039000292502195245,
-      "pct_7d": 0.002475166910926715,
-      "breakout": true,
+      "price_now": 91.715,
+      "pct_24h": 0.0,
+      "pct_7d": 0.00465549348230925,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
