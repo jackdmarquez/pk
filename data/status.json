@@ -1,31 +1,71 @@
 {
-  "started": "2026-05-22T07:46:22.307245",
-  "duration_sec": 16.265,
+  "started": "2026-05-22T10:51:53.665415",
+  "duration_sec": 23.979,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 516.345,
-      "pct_24h": 0.0,
-      "pct_7d": -0.010198115648931664,
+      "price_now": 85.445,
+      "pct_24h": 0.0015237648713590278,
+      "pct_7d": 0.004703392321711935,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 91.715,
+      "price_now": 22.525,
       "pct_24h": 0.0,
-      "pct_7d": 0.00465549348230925,
+      "pct_7d": -0.6783521347993717,
       "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 470.21500000000003,
+      "pct_24h": 0.0,
+      "pct_7d": 0.013154209131455943,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 1,
+      "price_now": 1299.96,
+      "pct_24h": 0.0,
+      "pct_7d": 6.854743202416919,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 159.22,
+      "pct_24h": 0.0,
+      "pct_7d": 0.004764459028807595,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 217.17000000000002,
+      "pct_24h": 0.0038829565940925064,
+      "pct_7d": 0.006255212677231131,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
