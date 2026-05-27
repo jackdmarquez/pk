@@ -1,33 +1,73 @@
 {
-  "started": "2026-05-27T15:46:29.818720",
-  "duration_sec": 311.853,
+  "started": "2026-05-27T18:26:29.993752",
+  "duration_sec": 481.533,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 516.345,
+      "price_now": 85.74,
       "pct_24h": 0.0,
-      "pct_7d": -0.010198115648931664,
+      "pct_7d": 0.001811065023076487,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "name": "Pikachu Van Gogh Promo",
+      "entries": 2,
+      "price_now": 18.775,
+      "pct_24h": 0.0,
+      "pct_7d": -0.16648168701442842,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
+    },
+    {
+      "name": "Charizard Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 476.945,
+      "pct_24h": 0.0,
+      "pct_7d": 0.014312601682209119,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 1,
+      "price_now": 1299.96,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 164.31,
+      "pct_24h": 0.0,
+      "pct_7d": 0.03196834568521545,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 217.505,
+      "pct_24h": 0.0,
+      "pct_7d": 0.007807432119358736,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
     }
   ]
 }
