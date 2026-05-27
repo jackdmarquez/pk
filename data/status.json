@@ -1,31 +1,71 @@
 {
-  "started": "2026-05-27T03:57:16.361303",
-  "duration_sec": 15.411,
+  "started": "2026-05-27T08:08:10.293936",
+  "duration_sec": 441.976,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 516.345,
-      "pct_24h": 0.0,
-      "pct_7d": -0.010198115648931664,
+      "price_now": 200.78500000000003,
+      "pct_24h": 10.21703910614525,
+      "pct_7d": 10.596015015882184,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "entries": 2,
+      "price_now": 7.390000000000001,
+      "pct_24h": 0.013022618231665612,
+      "pct_7d": 0.043785310734463345,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 91.715,
+      "price_now": 11.945,
+      "pct_24h": 0.011002962336013609,
+      "pct_7d": 0.0491875274483969,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Espeon VMAX Alt Art (Fusion Strike)",
+      "entries": 1,
+      "price_now": 306.93,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.018043716209492845,
       "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "entries": 2,
+      "price_now": 33.46,
+      "pct_24h": 0.0010471204188480653,
+      "pct_7d": 0.1196252300485193,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mew VMAX Alt Art (Fusion Strike)",
+      "entries": 2,
+      "price_now": 11.92,
+      "pct_24h": 0.16066212268743918,
+      "pct_7d": 0.12878787878787873,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
