@@ -1,70 +1,30 @@
 {
-  "started": "2026-05-29T21:51:59.185019",
-  "duration_sec": 49.018,
+  "started": "2026-05-30T03:32:44.673614",
+  "duration_sec": 96.788,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 2.085,
-      "pct_24h": 0.027093596059113156,
-      "pct_7d": -0.03248259860788856,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.2200000000000002,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0317460317460316,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 11.23,
-      "pct_24h": 0.055947343676539786,
-      "pct_7d": 0.06799809795530193,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
       "price_now": 516.345,
       "pct_24h": 0.0,
+      "pct_7d": -0.00709567625255981,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Full Art / EX (proxy demand)",
+      "entries": 2,
+      "price_now": 91.715,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Blastoise ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 65.95,
-      "pct_24h": -0.009759759759759632,
-      "pct_7d": -0.0076737887451099164,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 154.665,
-      "pct_24h": -0.0005815644082582367,
-      "pct_7d": 0.004938111172476468,
       "breakout": false,
       "alerted": false,
       "note": ""
