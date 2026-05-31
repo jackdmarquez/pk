@@ -1,71 +1,31 @@
 {
-  "started": "2026-05-30T20:58:55.757807",
-  "duration_sec": 59.192,
+  "started": "2026-05-31T03:59:03.302796",
+  "duration_sec": 13.96,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
-      "price_now": 17.72,
+      "price_now": 516.345,
       "pct_24h": 0.0,
-      "pct_7d": -0.028775006851192223,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 7.62,
+      "price_now": 91.715,
       "pct_24h": 0.0,
-      "pct_7d": 0.02008032128514049,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 11.43,
-      "pct_24h": 0.0,
-      "pct_7d": 0.011057054400707651,
+      "pct_7d": 0.0,
       "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 307.65,
-      "pct_24h": 0.002345811748607078,
-      "pct_7d": 0.002345811748607078,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 31.525,
-      "pct_24h": 0.027709861450692794,
-      "pct_7d": -0.06328925865398909,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 13.110000000000001,
-      "pct_24h": 0.17631224764468387,
-      "pct_7d": 0.1365409622886867,
-      "breakout": true,
       "alerted": false,
       "note": ""
     }
