@@ -1,6 +1,6 @@
 {
-  "started": "2026-06-08T04:08:19.652735",
-  "duration_sec": 184.045,
+  "started": "2026-06-08T12:30:55.639375",
+  "duration_sec": 33.725,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 18.415,
-      "pct_24h": 0.009041095890410912,
-      "pct_7d": 0.0392212189616253,
+      "price_now": 18.35,
+      "pct_24h": -0.003529731197393306,
+      "pct_7d": 0.03555304740406335,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 7.72,
-      "pct_24h": -0.007073954983922793,
-      "pct_7d": 0.013123359580052446,
+      "price_now": 7.63,
+      "pct_24h": -0.011658031088082884,
+      "pct_7d": 0.0013123359580052214,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 11.9,
-      "pct_24h": 0.012765957446808541,
-      "pct_7d": 0.04111986001749787,
+      "price_now": 12.1,
+      "pct_24h": 0.01680672268907557,
+      "pct_7d": 0.05861767279090113,
       "breakout": true,
       "alerted": false,
       "note": ""
@@ -42,19 +42,19 @@
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
       "entries": 1,
-      "price_now": 313.42,
-      "pct_24h": 0.0,
-      "pct_7d": 0.018755078823338336,
-      "breakout": false,
+      "price_now": 313.96,
+      "pct_24h": 0.0017229277008485853,
+      "pct_7d": 0.02051032016902325,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 29.745,
-      "pct_24h": -0.03924418604651162,
-      "pct_7d": -0.05646312450436154,
+      "price_now": 29.669999999999998,
+      "pct_24h": -0.002521432173474629,
+      "pct_7d": -0.05884218873909597,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,10 +62,10 @@
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 14.309999999999999,
-      "pct_24h": 0.04988994864269977,
-      "pct_7d": 0.09153318077803184,
-      "breakout": true,
+      "price_now": 14.235,
+      "pct_24h": -0.005241090146750475,
+      "pct_7d": 0.0858123569794049,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
