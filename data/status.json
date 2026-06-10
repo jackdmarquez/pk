@@ -1,6 +1,6 @@
 {
-  "started": "2026-06-10T18:30:33.373553",
-  "duration_sec": 127.928,
+  "started": "2026-06-10T22:03:05.065116",
+  "duration_sec": 120.402,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -63,9 +63,9 @@
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
       "price_now": 223.49,
-      "pct_24h": 0.0002237737200143724,
+      "pct_24h": 0.0,
       "pct_7d": 0.023633948609902557,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
