@@ -1,6 +1,6 @@
 {
-  "started": "2026-06-14T04:12:56.657682",
-  "duration_sec": 8.908,
+  "started": "2026-06-14T10:49:02.797762",
+  "duration_sec": 14.169,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,62 +10,62 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 19.515,
-      "pct_24h": 0.02927215189873416,
-      "pct_7d": 0.0796680497925312,
+      "price_now": 87.875,
+      "pct_24h": 0.0030820158666743937,
+      "pct_7d": 0.01390331141109972,
       "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 7.64,
-      "pct_24h": -0.0006540222367560358,
-      "pct_7d": -0.016097875080489488,
+      "price_now": 26.54,
+      "pct_24h": 0.08282333741330075,
+      "pct_7d": 0.0003769317753485869,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
+      "name": "Charizard Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 12.495,
-      "pct_24h": 0.04081632653061227,
-      "pct_7d": 0.08699434536755112,
+      "price_now": 496.355,
+      "pct_24h": 0.00923111332513246,
+      "pct_7d": 0.00923111332513246,
       "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
+      "name": "Lugia Neo Genesis 1st Edition Holo",
       "entries": 1,
-      "price_now": 343.15,
-      "pct_24h": 0.010661797190233573,
-      "pct_7d": 0.09485674175228116,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 31.42,
-      "pct_24h": 0.052596314907872706,
-      "pct_7d": 0.028983134108400248,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 12.695,
-      "pct_24h": 0.028351559335763436,
-      "pct_7d": -0.05648457822370852,
+      "price_now": 1599.98,
+      "pct_24h": 0.0,
+      "pct_7d": 0.23079171666820517,
       "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 168.945,
+      "pct_24h": 0.0,
+      "pct_7d": 0.022793316382128503,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 223.53,
+      "pct_24h": 0.00017897892523151837,
+      "pct_7d": 0.023817157513855252,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
