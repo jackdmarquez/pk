@@ -1,6 +1,6 @@
 {
-  "started": "2026-06-17T18:19:04.339438",
-  "duration_sec": 14.699,
+  "started": "2026-06-17T22:01:08.449045",
+  "duration_sec": 12.433,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,9 +13,9 @@
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
       "price_now": 88.03,
-      "pct_24h": 0.0017638691322901978,
+      "pct_24h": 0.0,
       "pct_7d": 0.023664166521309336,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     },
