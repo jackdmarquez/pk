@@ -1,71 +1,31 @@
 {
-  "started": "2026-06-22T22:02:57.859843",
-  "duration_sec": 50.106,
+  "started": "2026-06-23T03:40:00.976866",
+  "duration_sec": 39.924,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
-      "price_now": 88.11,
+      "price_now": 515.82,
       "pct_24h": 0.0,
-      "pct_7d": 0.005764511158039036,
+      "pct_7d": -0.0010167620486302323,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Pikachu Van Gogh Promo",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 24.924999999999997,
-      "pct_24h": -0.04884564014501054,
-      "pct_7d": 0.016931864545083605,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 500.15999999999997,
-      "pct_24h": 0.007665884296521542,
-      "pct_7d": 0.016967762268332545,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1599.98,
+      "price_now": 91.715,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 168.945,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 223.875,
-      "pct_24h": 0.0009165288147716908,
-      "pct_7d": 0.0017226721553536663,
-      "breakout": true,
       "alerted": false,
       "note": ""
     }
