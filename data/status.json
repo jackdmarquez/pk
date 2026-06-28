@@ -1,6 +1,6 @@
 {
-  "started": "2026-06-28T17:13:03.549791",
-  "duration_sec": 44.524,
+  "started": "2026-06-28T21:02:13.664495",
+  "duration_sec": 108.126,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -11,33 +11,33 @@
   "items": [
     {
       "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 2.3449999999999998,
-      "pct_24h": 0.0,
-      "pct_7d": -0.02898550724637693,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.175,
-      "pct_24h": 0.0,
-      "pct_7d": -0.05999999999999996,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 11.505,
-      "pct_24h": 0.0,
-      "pct_7d": 0.04590909090909098,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard ex Special Illustration (SV 151)",
