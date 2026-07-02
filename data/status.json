@@ -1,73 +1,33 @@
 {
-  "started": "2026-07-01T21:38:42.073655",
-  "duration_sec": 31.914,
+  "started": "2026-07-02T03:41:15.694336",
+  "duration_sec": 3.547,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 2.645,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0795918367346938,
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.2799999999999998,
-      "pct_24h": 0.0,
-      "pct_7d": 0.01587301587301571,
+      "name": "Lugia Full Art / EX (proxy demand)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 11.329999999999998,
-      "pct_24h": 0.0,
-      "pct_7d": 0.04231830726770921,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 515.82,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Blastoise ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 70.03999999999999,
-      "pct_24h": 0.0,
-      "pct_7d": 0.055773289116671516,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 164.625,
-      "pct_24h": 0.0,
-      "pct_7d": 0.00488325957576672,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
