@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-08T10:19:19.723409",
-  "duration_sec": 18.047,
+  "started": "2026-07-08T14:10:33.897179",
+  "duration_sec": 17.759,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -24,7 +24,7 @@
       "entries": 2,
       "price_now": 29.324999999999996,
       "pct_24h": 0.0,
-      "pct_7d": 0.17652958876629887,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
