@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-12T02:51:39.371621",
-  "duration_sec": 62.685,
+  "started": "2026-07-12T06:32:54.445178",
+  "duration_sec": 90.882,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -32,9 +32,9 @@
     {
       "name": "Charizard Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 459.08000000000004,
-      "pct_24h": 0.0,
-      "pct_7d": -0.09039934218999217,
+      "price_now": 465.87,
+      "pct_24h": 0.01479045046614961,
+      "pct_7d": -0.07694593871667614,
       "breakout": false,
       "alerted": false,
       "note": ""
