@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-15T02:32:24.439790",
-  "duration_sec": 33.637,
+  "started": "2026-07-15T06:14:49.849341",
+  "duration_sec": 103.821,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -22,10 +22,10 @@
     {
       "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 29.324999999999996,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
+      "price_now": 29.729999999999997,
+      "pct_24h": 0.013810741687979581,
+      "pct_7d": 0.013810741687979581,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
@@ -51,23 +51,23 @@
     },
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 201.835,
-      "pct_24h": 0.0,
-      "pct_7d": 0.020915528578654627,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 224.9,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0038610038610037744,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
