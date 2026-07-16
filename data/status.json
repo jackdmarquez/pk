@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-16T06:19:01.467988",
-  "duration_sec": 135.611,
+  "started": "2026-07-16T10:08:49.583317",
+  "duration_sec": 82.091,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -11,39 +11,39 @@
   "items": [
     {
       "name": "Latias & Latios GX Alt Art (Team Up)",
-      "entries": 2,
-      "price_now": 90.265,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0002216189262562582,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 29.729999999999997,
-      "pct_24h": 0.0,
-      "pct_7d": 0.013810741687979581,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 465.87,
-      "pct_24h": 0.0,
-      "pct_7d": -0.06828795136145913,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Lugia Neo Genesis 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
+      "pct_24h": 0.0,
       "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
@@ -53,7 +53,7 @@
       "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
+      "pct_24h": 0.0,
       "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
@@ -63,7 +63,7 @@
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 0,
       "price_now": 0.0,
-      "pct_24h": -1.0,
+      "pct_24h": 0.0,
       "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
