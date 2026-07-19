@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-19T02:48:20.036758",
-  "duration_sec": 40.654,
+  "started": "2026-07-19T06:30:12.760608",
+  "duration_sec": 47.144,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -41,33 +41,33 @@
     },
     {
       "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1299.96,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 201.835,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0096040817347372,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 224.88500000000002,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0021836493683014733,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
