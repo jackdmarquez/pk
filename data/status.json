@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-20T14:07:15.098944",
-  "duration_sec": 22.42,
+  "started": "2026-07-20T18:04:01.724278",
+  "duration_sec": 39.214,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -21,53 +21,53 @@
     },
     {
       "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 29.729999999999997,
-      "pct_24h": 0.0,
-      "pct_7d": 0.013810741687979581,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 465.87,
-      "pct_24h": 0.0,
-      "pct_7d": 0.01479045046614961,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1299.96,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 201.835,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0096040817347372,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 225.085,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0030749348247509868,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
