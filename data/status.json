@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-20T06:47:01.032711",
-  "duration_sec": 122.707,
+  "started": "2026-07-20T10:52:33.238474",
+  "duration_sec": 229.831,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -51,13 +51,13 @@
     },
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 201.835,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0096040817347372,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
@@ -65,7 +65,7 @@
       "price_now": 225.085,
       "pct_24h": 0.0,
       "pct_7d": 0.0030749348247509868,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
