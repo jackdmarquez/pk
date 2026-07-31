@@ -1,6 +1,6 @@
 {
-  "started": "2026-07-31T10:39:43.189513",
-  "duration_sec": 119.639,
+  "started": "2026-07-31T14:07:58.529209",
+  "duration_sec": 45.896,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -43,7 +43,7 @@
       "name": "Lugia Neo Genesis 1st Edition Holo",
       "entries": 1,
       "price_now": 1299.96,
-      "pct_24h": 11.362910128388016,
+      "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
