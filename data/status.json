@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-05T06:28:09.577886",
-  "duration_sec": 200.345,
+  "started": "2026-08-05T10:35:23.014943",
+  "duration_sec": 109.568,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 35.085,
-      "pct_24h": -0.613260582010582,
-      "pct_7d": -0.6123418595657698,
+      "price_now": 90.69,
+      "pct_24h": 1.5848653270628472,
+      "pct_7d": 0.0014355123674911158,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -24,7 +24,7 @@
       "entries": 2,
       "price_now": 29.545,
       "pct_24h": 0.0,
-      "pct_7d": -0.006222670702993447,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -51,23 +51,23 @@
     },
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "entries": 2,
+      "price_now": 255.005,
+      "pct_24h": 0.0,
+      "pct_7d": 0.01288925961232922,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
-      "breakout": false,
+      "entries": 2,
+      "price_now": 228.75,
+      "pct_24h": 0.0,
+      "pct_7d": 0.014030188177405378,
+      "breakout": true,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
