@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-10T09:21:53.635440",
-  "duration_sec": 276.821,
+  "started": "2026-08-10T13:08:49.595167",
+  "duration_sec": 374.572,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -61,13 +61,13 @@
     },
     {
       "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 166.79500000000002,
-      "pct_24h": 0.0,
-      "pct_7d": -0.005040563111429246,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
