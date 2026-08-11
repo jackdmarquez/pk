@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-11T16:57:14.494060",
-  "duration_sec": 82.982,
+  "started": "2026-08-11T20:43:54.512704",
+  "duration_sec": 12.717,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,7 +13,7 @@
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
       "price_now": 17.105,
-      "pct_24h": -0.9379241516966067,
+      "pct_24h": 0.0,
       "pct_7d": 0.014832393948383269,
       "breakout": false,
       "alerted": false,
