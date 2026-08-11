@@ -1,9 +1,9 @@
 {
-  "started": "2026-08-11T01:47:44.703066",
-  "duration_sec": 368.049,
+  "started": "2026-08-11T05:09:10.037980",
+  "duration_sec": 519.98,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 5,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -31,23 +31,23 @@
     },
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 10.18,
-      "pct_24h": 0.0,
-      "pct_7d": 0.005432098765432071,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 418.855,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0008243530620535407,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Blastoise ex Special Illustration (SV 151)",
@@ -55,16 +55,6 @@
       "price_now": 73.065,
       "pct_24h": 0.0,
       "pct_7d": 0.03564847625797287,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 166.79500000000002,
-      "pct_24h": 0.0,
-      "pct_7d": -0.005040563111429246,
       "breakout": false,
       "alerted": false,
       "note": ""
