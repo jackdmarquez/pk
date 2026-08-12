@@ -1,9 +1,9 @@
 {
-  "started": "2026-08-12T05:37:18.515983",
-  "duration_sec": 714.425,
+  "started": "2026-08-12T09:11:39.191195",
+  "duration_sec": 442.4,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 4,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
@@ -12,29 +12,29 @@
     {
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 2.19,
-      "pct_24h": 0.0,
-      "pct_7d": -0.05806451612903235,
+      "price_now": 2.15,
+      "pct_24h": -0.018264840182648418,
+      "pct_7d": -0.07526881720430119,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
-      "breakout": false,
+      "entries": 2,
+      "price_now": 1.125,
+      "pct_24h": 0.0,
+      "pct_7d": 0.1479591836734694,
+      "breakout": true,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 10.379999999999999,
-      "pct_24h": 0.0,
-      "pct_7d": 0.04112337011033083,
+      "price_now": 10.545,
+      "pct_24h": 0.015895953757225523,
+      "pct_7d": 0.05767301905717144,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -46,6 +46,26 @@
       "pct_24h": 0.0,
       "pct_7d": 0.0008243530620535407,
       "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 73.065,
+      "pct_24h": 0.0,
+      "pct_7d": 0.03396306516663117,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 166.91,
+      "pct_24h": 0.0006894691087861186,
+      "pct_7d": 0.0002996524032121715,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
