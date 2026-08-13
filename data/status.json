@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-13T05:39:53.770171",
-  "duration_sec": 302.436,
+  "started": "2026-08-13T09:12:22.571807",
+  "duration_sec": 181.418,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 2.15,
-      "pct_24h": 0.0,
-      "pct_7d": -0.05286343612334806,
+      "price_now": 2.125,
+      "pct_24h": -0.011627906976744146,
+      "pct_7d": -0.06387665198237887,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 1.125,
-      "pct_24h": 0.0,
-      "pct_7d": 0.10837438423645307,
+      "price_now": 1.095,
+      "pct_24h": -0.02666666666666669,
+      "pct_7d": 0.07881773399014763,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,32 +32,32 @@
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 10.545,
-      "pct_24h": 0.0,
-      "pct_7d": 0.06676783004552353,
+      "price_now": 10.73,
+      "pct_24h": 0.017543859649122855,
+      "pct_7d": 0.08548305513404154,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Charizard ex Special Illustration (SV 151)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "entries": 2,
+      "price_now": 418.855,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0008243530620535407,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Blastoise ex Special Illustration (SV 151)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "entries": 2,
+      "price_now": 73.065,
+      "pct_24h": 0.0,
+      "pct_7d": 0.03396306516663117,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Venusaur ex Special Illustration (SV 151)",
