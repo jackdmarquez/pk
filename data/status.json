@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-14T01:59:51.368821",
-  "duration_sec": 449.454,
+  "started": "2026-08-14T05:37:35.536903",
+  "duration_sec": 610.718,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -31,13 +31,13 @@
     },
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 10.73,
-      "pct_24h": 0.0,
-      "pct_7d": 0.08548305513404154,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard ex Special Illustration (SV 151)",
