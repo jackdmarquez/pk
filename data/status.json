@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-18T12:46:35.407106",
-  "duration_sec": 149.209,
+  "started": "2026-08-18T16:31:29.414464",
+  "duration_sec": 243.816,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -43,7 +43,7 @@
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
       "entries": 1,
       "price_now": 348.38,
-      "pct_24h": 1.237220652453121,
+      "pct_24h": 0.0,
       "pct_7d": -0.00017219607392952093,
       "breakout": false,
       "alerted": false,
