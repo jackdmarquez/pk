@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-21T04:38:10.975659",
-  "duration_sec": 145.423,
+  "started": "2026-08-21T08:40:17.207513",
+  "duration_sec": 94.63,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,9 +12,9 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 17.759999999999998,
-      "pct_24h": 0.0,
-      "pct_7d": -0.9355470876428961,
+      "price_now": 18.2,
+      "pct_24h": 0.024774774774774848,
+      "pct_7d": -0.9339502812556705,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -22,9 +22,9 @@
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 8.365,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0569334836527622,
+      "price_now": 8.555,
+      "pct_24h": 0.022713687985654454,
+      "pct_7d": -0.035512965050732946,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 13.24,
-      "pct_24h": 0.0,
-      "pct_7d": 0.057930483419896095,
+      "price_now": 13.465,
+      "pct_24h": 0.016993957703927465,
+      "pct_7d": 0.07590890930882935,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -52,9 +52,9 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 28.085,
-      "pct_24h": 0.0,
-      "pct_7d": -0.03205238669653626,
+      "price_now": 28.28,
+      "pct_24h": 0.006943208118212579,
+      "pct_7d": -0.025331724969843164,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,9 +62,9 @@
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 10.06,
-      "pct_24h": 0.0,
-      "pct_7d": 0.01309164149043311,
+      "price_now": 10.040000000000001,
+      "pct_24h": -0.0019880715705764985,
+      "pct_7d": 0.011077542799597303,
       "breakout": false,
       "alerted": false,
       "note": ""
