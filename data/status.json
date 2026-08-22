@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-22T04:32:38.408521",
-  "duration_sec": 282.365,
+  "started": "2026-08-22T08:30:31.090061",
+  "duration_sec": 230.233,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,19 +12,19 @@
     {
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 18.2,
-      "pct_24h": 0.0,
-      "pct_7d": 0.07184923439340393,
-      "breakout": false,
+      "price_now": 18.55,
+      "pct_24h": 0.019230769230769308,
+      "pct_7d": 0.09246171967020025,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
       "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 8.555,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0634920634920635,
+      "price_now": 8.58,
+      "pct_24h": 0.002922267679719504,
+      "pct_7d": -0.06075533661740555,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -32,9 +32,9 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 13.465,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0531873289010559,
+      "price_now": 13.175,
+      "pct_24h": -0.02153731897512062,
+      "pct_7d": 0.03050449745795859,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -52,9 +52,9 @@
     {
       "name": "Gengar VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 28.28,
-      "pct_24h": 0.0,
-      "pct_7d": -0.029179539993134152,
+      "price_now": 28.105,
+      "pct_24h": -0.006188118811881213,
+      "pct_7d": -0.035187092344661816,
       "breakout": false,
       "alerted": false,
       "note": ""
@@ -62,9 +62,9 @@
     {
       "name": "Mew VMAX Alt Art (Fusion Strike)",
       "entries": 2,
-      "price_now": 10.040000000000001,
-      "pct_24h": 0.0,
-      "pct_7d": 0.03879979306777049,
+      "price_now": 10.1,
+      "pct_24h": 0.005976095617529753,
+      "pct_7d": 0.045007759958613607,
       "breakout": false,
       "alerted": false,
       "note": ""
