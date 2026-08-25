@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-25T16:37:29.808977",
-  "duration_sec": 300.649,
+  "started": "2026-08-25T20:28:55.378543",
+  "duration_sec": 158.387,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -32,9 +32,9 @@
     {
       "name": "Sylveon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
-      "price_now": 128.035,
-      "pct_24h": 8.491104521868051,
-      "pct_7d": 8.963813229571985,
+      "price_now": 13.49,
+      "pct_24h": -0.8946381848713243,
+      "pct_7d": -0.8937041998266488,
       "breakout": false,
       "alerted": false,
       "note": ""
