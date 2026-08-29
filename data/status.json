@@ -1,6 +1,6 @@
 {
-  "started": "2026-08-29T02:45:39.621456",
-  "duration_sec": 76.57,
+  "started": "2026-08-29T10:52:22.898308",
+  "duration_sec": 82.959,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -12,10 +12,10 @@
     {
       "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 91.03,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
+      "price_now": 91.515,
+      "pct_24h": 0.0053279138745468465,
+      "pct_7d": 0.0053279138745468465,
+      "breakout": true,
       "alerted": false,
       "note": ""
     },
@@ -43,7 +43,7 @@
       "name": "Lugia Neo Genesis 1st Edition Holo",
       "entries": 1,
       "price_now": 1085.03,
-      "pct_24h": -0.014281171928230776,
+      "pct_24h": 0.0,
       "pct_7d": -0.014281171928230776,
       "breakout": false,
       "alerted": false,
@@ -52,9 +52,9 @@
     {
       "name": "Rayquaza Gold Star (EX Deoxys)",
       "entries": 2,
-      "price_now": 286.42,
-      "pct_24h": 0.10246343341031564,
-      "pct_7d": 0.10246343341031564,
+      "price_now": 289.23,
+      "pct_24h": 0.009810767404510866,
+      "pct_7d": 0.1132794457274827,
       "breakout": true,
       "alerted": false,
       "note": ""
@@ -63,9 +63,9 @@
       "name": "Mewtwo Base Set 1st Edition Holo",
       "entries": 2,
       "price_now": 239.33,
-      "pct_24h": 0.005715006093205083,
+      "pct_24h": 0.0,
       "pct_7d": 0.005715006093205083,
-      "breakout": true,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
