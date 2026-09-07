@@ -1,13 +1,13 @@
 {
-  "started": "2026-09-07T09:00:44.797134",
-  "duration_sec": 444.631,
+  "started": "2026-09-07T17:24:36.586807",
+  "duration_sec": 517.005,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
-  "alerts_sent": 0,
+  "alerts_sent": 1,
   "items": [
     {
       "name": "Giratina V Alt Art (Lost Origin)",
@@ -32,11 +32,11 @@
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
-      "price_now": 10.615,
-      "pct_24h": 0.0,
-      "pct_7d": -0.0028182245185532514,
-      "breakout": false,
-      "alerted": false,
+      "price_now": 123.9,
+      "pct_24h": 10.672162034856337,
+      "pct_7d": 10.639267261625177,
+      "breakout": true,
+      "alerted": true,
       "note": ""
     },
     {
@@ -61,13 +61,13 @@
     },
     {
       "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "entries": 2,
+      "price_now": 165.775,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0005733944954128371,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     }
   ]
 }
