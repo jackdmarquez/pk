@@ -1,6 +1,6 @@
 {
-  "started": "2026-09-12T18:09:50.319971",
-  "duration_sec": 332.851,
+  "started": "2026-09-12T21:57:57.081089",
+  "duration_sec": 106.375,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,62 +10,62 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 95.67,
-      "pct_24h": 0.01646833829154268,
-      "pct_7d": 0.02381079779549477,
+      "price_now": 2.3899999999999997,
+      "pct_24h": -0.042084168336673514,
+      "pct_7d": -0.012396694214876136,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 1.145,
+      "pct_24h": -0.08764940239043816,
+      "pct_7d": -0.11583011583011577,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 11.07,
+      "pct_24h": -0.9106537530266344,
+      "pct_7d": 0.07684824902723744,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 418.855,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Blastoise ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 79.685,
+      "pct_24h": 0.008096653804794744,
+      "pct_7d": 0.008096653804794744,
       "breakout": true,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Pikachu Van Gogh Promo",
+      "name": "Venusaur ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 30.795,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 456.22,
-      "pct_24h": 0.0,
-      "pct_7d": -0.04593410500120241,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1085.03,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 297.08500000000004,
-      "pct_24h": 0.0,
-      "pct_7d": 0.02208728261056548,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 242.805,
-      "pct_24h": 0.0,
-      "pct_7d": 0.014519700831487879,
-      "breakout": false,
+      "price_now": 167.375,
+      "pct_24h": 0.009651636253958644,
+      "pct_7d": 0.009651636253958644,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
