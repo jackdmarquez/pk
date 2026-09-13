@@ -1,6 +1,6 @@
 {
-  "started": "2026-09-13T18:34:36.267156",
-  "duration_sec": 220.108,
+  "started": "2026-09-13T22:10:25.914955",
+  "duration_sec": 230.225,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -21,13 +21,13 @@
     },
     {
       "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 30.795,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
       "name": "Charizard Base Set 1st Edition Holo",
