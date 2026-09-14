@@ -1,48 +1,18 @@
 {
-  "started": "2026-09-13T22:10:25.914955",
-  "duration_sec": 230.225,
+  "started": "2026-09-14T03:47:51.262492",
+  "duration_sec": 131.408,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
-      "price_now": 95.67,
-      "pct_24h": 0.0,
-      "pct_7d": 0.024523452559434635,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Pikachu Van Gogh Promo",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
-      "breakout": false,
-      "alerted": false,
-      "note": "sin precio"
-    },
-    {
-      "name": "Charizard Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 456.22,
-      "pct_24h": 0.0,
-      "pct_7d": -0.04593410500120241,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1085.03,
+      "price_now": 418.855,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -50,21 +20,11 @@
       "note": ""
     },
     {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 297.08500000000004,
+      "price_now": 123.9,
       "pct_24h": 0.0,
-      "pct_7d": 0.02208728261056548,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 242.805,
-      "pct_24h": 0.0,
-      "pct_7d": -0.17640175027984123,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
