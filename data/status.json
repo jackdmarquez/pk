@@ -1,28 +1,18 @@
 {
-  "started": "2026-09-15T22:44:05.021085",
-  "duration_sec": 200.554,
+  "started": "2026-09-16T03:45:08.389413",
+  "duration_sec": 208.787,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
-      "price_now": 96.49000000000001,
-      "pct_24h": 0.008571129925786635,
-      "pct_7d": 0.03330477618333705,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 30.795,
+      "price_now": 418.855,
       "pct_24h": 0.0,
       "pct_7d": 0.0,
       "breakout": false,
@@ -30,41 +20,11 @@
       "note": ""
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 456.22,
-      "pct_24h": 0.0,
-      "pct_7d": -0.038382901587167714,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1079.79,
-      "pct_24h": -0.0048293595568786206,
-      "pct_7d": -0.0048293595568786206,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 297.08500000000004,
-      "pct_24h": 0.0,
-      "pct_7d": 0.02208728261056548,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 243.505,
-      "pct_24h": 0.0028829719322089275,
-      "pct_7d": 0.017444532653658057,
+      "price_now": 126.15,
+      "pct_24h": 0.018159806295399514,
+      "pct_7d": 0.018159806295399514,
       "breakout": true,
       "alerted": false,
       "note": ""
