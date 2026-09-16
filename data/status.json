@@ -1,16 +1,46 @@
 {
-  "started": "2026-09-16T03:45:08.389413",
-  "duration_sec": 208.787,
+  "started": "2026-09-16T09:07:44.616853",
+  "duration_sec": 485.157,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Giratina V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 2.3049999999999997,
+      "pct_24h": -1.9266343160523322e-16,
+      "pct_7d": -0.0761523046092186,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 1.155,
+      "pct_24h": 0.0,
+      "pct_7d": -0.07968127490039831,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "entries": 2,
+      "price_now": 11.004999999999999,
+      "pct_24h": 0.030430711610486827,
+      "pct_7d": 0.03674046161092782,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard ex Special Illustration (SV 151)",
       "entries": 2,
       "price_now": 418.855,
       "pct_24h": 0.0,
@@ -20,12 +50,22 @@
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Blastoise ex Special Illustration (SV 151)",
       "entries": 2,
-      "price_now": 126.15,
-      "pct_24h": 0.018159806295399514,
-      "pct_7d": 0.018159806295399514,
-      "breakout": true,
+      "price_now": 79.685,
+      "pct_24h": 0.0,
+      "pct_7d": 0.008096653804794744,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Venusaur ex Special Illustration (SV 151)",
+      "entries": 2,
+      "price_now": 167.37,
+      "pct_24h": 0.0,
+      "pct_7d": 0.00962147489066505,
+      "breakout": false,
       "alerted": false,
       "note": ""
     }
