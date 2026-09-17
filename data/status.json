@@ -1,6 +1,6 @@
 {
-  "started": "2026-09-17T16:25:31.883249",
-  "duration_sec": 223.572,
+  "started": "2026-09-17T22:42:23.131724",
+  "duration_sec": 354.219,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -10,61 +10,61 @@
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 19.0,
-      "pct_24h": -0.004453759496987207,
-      "pct_7d": -0.010158895545715045,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 8.879999999999999,
-      "pct_24h": -0.017699115044247805,
-      "pct_7d": -0.030567685589519774,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 13.690000000000001,
-      "pct_24h": 0.0051395007342144115,
-      "pct_7d": 0.06206361520558578,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 344.18,
+      "price_now": 96.49000000000001,
       "pct_24h": 0.0,
-      "pct_7d": -0.0006097738029558917,
+      "pct_7d": 0.02961105479378974,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 27.86,
-      "pct_24h": 0.0001795009872553942,
-      "pct_7d": -0.006419400855920104,
+      "price_now": 30.795,
+      "pct_24h": 0.0,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Mew VMAX Alt Art (Fusion Strike)",
+      "name": "Charizard Base Set 1st Edition Holo",
       "entries": 2,
-      "price_now": 9.655,
-      "pct_24h": -0.023761375126390413,
-      "pct_7d": -0.08222433460076048,
+      "price_now": 395.805,
+      "pct_24h": 0.0,
+      "pct_7d": -0.17571535674122205,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 1,
+      "price_now": 1079.79,
+      "pct_24h": 0.0,
+      "pct_7d": -0.0048293595568786206,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 302.73,
+      "pct_24h": 0.0,
+      "pct_7d": 0.041508265529045456,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 243.505,
+      "pct_24h": 0.0,
+      "pct_7d": 0.017444532653658057,
       "breakout": false,
       "alerted": false,
       "note": ""
