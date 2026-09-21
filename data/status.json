@@ -1,6 +1,6 @@
 {
-  "started": "2026-09-21T09:41:53.008742",
-  "duration_sec": 635.364,
+  "started": "2026-09-21T17:57:13.913766",
+  "duration_sec": 228.862,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,7 +13,7 @@
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
       "price_now": 2.31,
-      "pct_24h": 0.022123893805309856,
+      "pct_24h": 0.0,
       "pct_7d": -0.033472803347280186,
       "breakout": false,
       "alerted": false,
@@ -21,13 +21,13 @@
     },
     {
       "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 0,
-      "price_now": 0.0,
-      "pct_24h": -1.0,
-      "pct_7d": -1.0,
+      "entries": 2,
+      "price_now": 1.135,
+      "pct_24h": 0.0,
+      "pct_7d": -0.00873362445414848,
       "breakout": false,
       "alerted": false,
-      "note": "sin precio"
+      "note": ""
     },
     {
       "name": "Lugia V Alt Art (Silver Tempest)",
