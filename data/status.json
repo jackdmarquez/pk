@@ -1,60 +1,30 @@
 {
-  "started": "2026-10-01T04:37:22.106676",
-  "duration_sec": 533.645,
+  "started": "2026-10-01T15:09:39.075848",
+  "duration_sec": 125.065,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 5,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Umbreon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 17.68,
-      "pct_24h": 0.0,
-      "pct_7d": -0.025895316804407653,
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     },
     {
-      "name": "Rayquaza VMAX Alt Art (Evolving Skies)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 8.935,
-      "pct_24h": 0.0,
-      "pct_7d": -0.02880434782608683,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Sylveon VMAX Alt Art (Evolving Skies)",
-      "entries": 2,
-      "price_now": 137.89,
-      "pct_24h": 0.0,
-      "pct_7d": 9.73491630984819,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 1,
-      "price_now": 343.48,
-      "pct_24h": 0.0,
-      "pct_7d": 0.0031835041911271703,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Gengar VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 26.82,
-      "pct_24h": 0.0,
-      "pct_7d": 0.011884550084889691,
+      "price_now": 192.68,
+      "pct_24h": -0.06547676787273256,
+      "pct_7d": -0.00044095141752900966,
       "breakout": false,
       "alerted": false,
       "note": ""
