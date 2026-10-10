@@ -1,6 +1,6 @@
 {
-  "started": "2026-10-10T19:50:43.268618",
-  "duration_sec": 77.659,
+  "started": "2026-10-10T23:18:02.667040",
+  "duration_sec": 87.215,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 2,
@@ -21,13 +21,13 @@
     },
     {
       "name": "Lugia Full Art / EX (proxy demand)",
-      "entries": 2,
-      "price_now": 246.64,
-      "pct_24h": 0.0,
-      "pct_7d": 0.2800498235416233,
+      "entries": 0,
+      "price_now": 0.0,
+      "pct_24h": -1.0,
+      "pct_7d": -1.0,
       "breakout": false,
       "alerted": false,
-      "note": ""
+      "note": "sin precio"
     }
   ]
 }
