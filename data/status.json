@@ -1,46 +1,16 @@
 {
-  "started": "2026-10-13T01:51:26.751788",
-  "duration_sec": 149.119,
+  "started": "2026-10-13T11:28:22.065202",
+  "duration_sec": 154.3,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
-  "alerts_sent": 0,
+  "alerts_sent": 1,
   "items": [
     {
-      "name": "Giratina V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 2.34,
-      "pct_24h": 0.0,
-      "pct_7d": 0.12499999999999989,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Aerodactyl V Alt Art (Lost Origin)",
-      "entries": 2,
-      "price_now": 1.165,
-      "pct_24h": 0.0,
-      "pct_7d": 0.013043478260869674,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia V Alt Art (Silver Tempest)",
-      "entries": 2,
-      "price_now": 10.14,
-      "pct_24h": 0.0,
-      "pct_7d": 0.13043478260869565,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Charizard ex Special Illustration (SV 151)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
       "price_now": 418.855,
       "pct_24h": 0.0,
@@ -50,23 +20,13 @@
       "note": ""
     },
     {
-      "name": "Blastoise ex Special Illustration (SV 151)",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 89.785,
-      "pct_24h": 0.0,
-      "pct_7d": 0.014691755664801912,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Venusaur ex Special Illustration (SV 151)",
-      "entries": 2,
-      "price_now": 170.635,
-      "pct_24h": 0.0,
-      "pct_7d": 0.011380138102717697,
-      "breakout": false,
-      "alerted": false,
+      "price_now": 339.395,
+      "pct_24h": 0.3622661957132536,
+      "pct_7d": 0.7614438447166284,
+      "breakout": true,
+      "alerted": true,
       "note": ""
     }
   ]
