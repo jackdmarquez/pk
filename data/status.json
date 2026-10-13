@@ -1,32 +1,72 @@
 {
-  "started": "2026-10-13T11:28:22.065202",
-  "duration_sec": 154.3,
+  "started": "2026-10-13T18:58:17.415472",
+  "duration_sec": 201.821,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 6,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
-  "alerts_sent": 1,
+  "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Latias & Latios GX Alt Art (Team Up)",
       "entries": 2,
-      "price_now": 418.855,
+      "price_now": 101.05,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": 0.010702140428085549,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Pikachu Van Gogh Promo",
       "entries": 2,
-      "price_now": 339.395,
-      "pct_24h": 0.3622661957132536,
-      "pct_7d": 0.7614438447166284,
+      "price_now": 31.839999999999996,
+      "pct_24h": 0.009191759112519784,
+      "pct_7d": 0.03025400420643893,
       "breakout": true,
-      "alerted": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Charizard Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 352.64,
+      "pct_24h": 0.0032717858260547304,
+      "pct_7d": -0.09168416036678823,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Lugia Neo Genesis 1st Edition Holo",
+      "entries": 1,
+      "price_now": 1300.0,
+      "pct_24h": 0.0,
+      "pct_7d": 0.14552584041943878,
+      "breakout": false,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Rayquaza Gold Star (EX Deoxys)",
+      "entries": 2,
+      "price_now": 304.63,
+      "pct_24h": 0.006342704238380021,
+      "pct_7d": 0.009377070907885964,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Mewtwo Base Set 1st Edition Holo",
+      "entries": 2,
+      "price_now": 262.14,
+      "pct_24h": 0.0,
+      "pct_7d": 0.022765845379528214,
+      "breakout": false,
+      "alerted": false,
       "note": ""
     }
   ]
