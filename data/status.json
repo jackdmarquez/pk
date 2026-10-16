@@ -1,71 +1,31 @@
 {
-  "started": "2026-10-15T22:55:13.769727",
-  "duration_sec": 97.201,
+  "started": "2026-10-16T03:30:45.765072",
+  "duration_sec": 155.52,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 6,
+  "processed": 2,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Latias & Latios GX Alt Art (Team Up)",
+      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
       "entries": 2,
-      "price_now": 101.295,
-      "pct_24h": 0.0024245423057892585,
-      "pct_7d": 0.004113798572561522,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Pikachu Van Gogh Promo",
-      "entries": 2,
-      "price_now": 31.839999999999996,
+      "price_now": 418.855,
       "pct_24h": 0.0,
-      "pct_7d": 0.012400635930047714,
+      "pct_7d": 0.0,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Charizard Base Set 1st Edition Holo",
+      "name": "Lugia Full Art / EX (proxy demand)",
       "entries": 2,
-      "price_now": 352.64,
+      "price_now": 339.395,
       "pct_24h": 0.0,
-      "pct_7d": -0.05697361911511053,
+      "pct_7d": 0.7614438447166284,
       "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Lugia Neo Genesis 1st Edition Holo",
-      "entries": 1,
-      "price_now": 1300.0,
-      "pct_24h": 0.0,
-      "pct_7d": 7.085079917905343,
-      "breakout": false,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Rayquaza Gold Star (EX Deoxys)",
-      "entries": 2,
-      "price_now": 320.22,
-      "pct_24h": 0.05117683747496974,
-      "pct_7d": 0.07088036117381508,
-      "breakout": true,
-      "alerted": false,
-      "note": ""
-    },
-    {
-      "name": "Mewtwo Base Set 1st Edition Holo",
-      "entries": 2,
-      "price_now": 269.41,
-      "pct_24h": 0.027733272297245894,
-      "pct_7d": 0.03977152119796996,
-      "breakout": true,
       "alerted": false,
       "note": ""
     }
