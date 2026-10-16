@@ -1,6 +1,6 @@
 {
-  "started": "2026-10-16T08:47:42.768097",
-  "duration_sec": 243.099,
+  "started": "2026-10-16T16:13:04.589340",
+  "duration_sec": 201.712,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 6,
@@ -13,7 +13,7 @@
       "name": "Umbreon VMAX Alt Art (Evolving Skies)",
       "entries": 2,
       "price_now": 18.26,
-      "pct_24h": -0.9426579575430223,
+      "pct_24h": 0.0,
       "pct_7d": 0.06877377816798365,
       "breakout": false,
       "alerted": false,
@@ -41,10 +41,10 @@
     },
     {
       "name": "Espeon VMAX Alt Art (Fusion Strike)",
-      "entries": 2,
-      "price_now": 177.86499999999998,
-      "pct_24h": -0.4789365753625312,
-      "pct_7d": -0.4793179156908666,
+      "entries": 1,
+      "price_now": 341.35,
+      "pct_24h": 0.919152165968572,
+      "pct_7d": -0.0007318501170960187,
       "breakout": false,
       "alerted": false,
       "note": ""
