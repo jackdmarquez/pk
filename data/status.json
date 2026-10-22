@@ -1,31 +1,41 @@
 {
-  "started": "2026-10-22T03:38:57.112488",
-  "duration_sec": 110.001,
+  "started": "2026-10-22T09:12:26.158086",
+  "duration_sec": 542.952,
   "cards_total": 20,
   "batch_size": 6,
-  "processed": 2,
+  "processed": 3,
   "timeouts": 0,
   "net_errors": 0,
   "parse_errors": 0,
   "alerts_sent": 0,
   "items": [
     {
-      "name": "Charizard V Alt Art (Champion's Path / SWSH)",
+      "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
-      "price_now": 418.855,
+      "price_now": 97.145,
+      "pct_24h": 40.603854389721626,
+      "pct_7d": 40.51495726495727,
+      "breakout": true,
+      "alerted": false,
+      "note": ""
+    },
+    {
+      "name": "Aerodactyl V Alt Art (Lost Origin)",
+      "entries": 2,
+      "price_now": 1.125,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
+      "pct_7d": -0.03433476394849788,
       "breakout": false,
       "alerted": false,
       "note": ""
     },
     {
-      "name": "Lugia Full Art / EX (proxy demand)",
+      "name": "Lugia V Alt Art (Silver Tempest)",
       "entries": 2,
       "price_now": 339.395,
       "pct_24h": 0.0,
-      "pct_7d": 0.0,
-      "breakout": false,
+      "pct_7d": 32.47090729783037,
+      "breakout": true,
       "alerted": false,
       "note": ""
     }
