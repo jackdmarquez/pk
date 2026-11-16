@@ -1,6 +1,6 @@
 {
-  "started": "2026-11-16T05:12:45.847188",
-  "duration_sec": 600.68,
+  "started": "2026-11-16T17:59:57.137734",
+  "duration_sec": 493.711,
   "cards_total": 20,
   "batch_size": 6,
   "processed": 4,
@@ -13,7 +13,7 @@
       "name": "Giratina V Alt Art (Lost Origin)",
       "entries": 2,
       "price_now": 97.145,
-      "pct_24h": 40.603854389721626,
+      "pct_24h": 0.0,
       "pct_7d": 40.603854389721626,
       "breakout": false,
       "alerted": false,
